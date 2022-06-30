@@ -1,0 +1,7002 @@
+[
+  {
+    "id": 1,
+    "stock_name": "First Trust Switzerland AlphaDEX Fund",
+    "stock_symbol": "FSZ",
+    "price": "$229.46",
+    "market_cap": "$192.43M"
+  },
+  {
+    "id": 2,
+    "stock_name": "Heico Corporation",
+    "stock_symbol": "HEI",
+    "price": "$59.00",
+    "market_cap": "$6.15B"
+  },
+  {
+    "id": 3,
+    "stock_name": "Clean Harbors, Inc.",
+    "stock_symbol": "CLH",
+    "price": "$786.83",
+    "market_cap": "$3.24B"
+  },
+  {
+    "id": 4,
+    "stock_name": "Entergy Louisiana, Inc.",
+    "stock_symbol": "ELC",
+    "price": "$871.08",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 5,
+    "stock_name": "voxeljet AG",
+    "stock_symbol": "VJET",
+    "price": "$602.37",
+    "market_cap": "$98.77M"
+  },
+  {
+    "id": 6,
+    "stock_name": "TOR Minerals International Inc",
+    "stock_symbol": "TORM          ",
+    "price": "$224.95",
+    "market_cap": "$26.92M"
+  },
+  {
+    "id": 7,
+    "stock_name": "RE/MAX Holdings, Inc.",
+    "stock_symbol": "RMAX",
+    "price": "$816.53",
+    "market_cap": "$968.03M"
+  },
+  {
+    "id": 8,
+    "stock_name": "Diana Shipping inc.",
+    "stock_symbol": "DSX^B",
+    "price": "$267.40",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 9,
+    "stock_name": "Methanex Corporation",
+    "stock_symbol": "MEOH",
+    "price": "$8.45",
+    "market_cap": "$3.63B"
+  },
+  {
+    "id": 10,
+    "stock_name": "KKR & Co. L.P.",
+    "stock_symbol": "KKR^A",
+    "price": "$460.42",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 11,
+    "stock_name": "Centrais Electricas Brasileiras S.A.- Eletrobras",
+    "stock_symbol": "EBR.B",
+    "price": "$731.39",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 12,
+    "stock_name": "ONEOK Partners, L.P.",
+    "stock_symbol": "OKS",
+    "price": "$643.30",
+    "market_cap": "$14.31B"
+  },
+  {
+    "id": 13,
+    "stock_name": "3D Systems Corporation",
+    "stock_symbol": "DDD",
+    "price": "$634.57",
+    "market_cap": "$2.39B"
+  },
+  {
+    "id": 14,
+    "stock_name": "Genworth Financial Inc",
+    "stock_symbol": "GNW",
+    "price": "$572.03",
+    "market_cap": "$1.82B"
+  },
+  {
+    "id": 15,
+    "stock_name": "Nuveen Floating Rate Income Opportuntiy Fund",
+    "stock_symbol": "JRO",
+    "price": "$664.31",
+    "market_cap": "$461.83M"
+  },
+  {
+    "id": 16,
+    "stock_name": "El Pollo Loco Holdings, Inc.",
+    "stock_symbol": "LOCO",
+    "price": "$759.27",
+    "market_cap": "$542.39M"
+  },
+  {
+    "id": 17,
+    "stock_name": "Double Eagle Acquisition Corp.",
+    "stock_symbol": "EAGL",
+    "price": "$160.05",
+    "market_cap": "$628.13M"
+  },
+  {
+    "id": 18,
+    "stock_name": "Radcom Ltd.",
+    "stock_symbol": "RDCM",
+    "price": "$580.88",
+    "market_cap": "$229.93M"
+  },
+  {
+    "id": 19,
+    "stock_name": "Old Dominion Freight Line, Inc.",
+    "stock_symbol": "ODFL",
+    "price": "$617.60",
+    "market_cap": "$7.81B"
+  },
+  {
+    "id": 20,
+    "stock_name": "Cabela's Inc",
+    "stock_symbol": "CAB",
+    "price": "$110.08",
+    "market_cap": "$3.94B"
+  },
+  {
+    "id": 21,
+    "stock_name": "MFS Multimarket Income Trust",
+    "stock_symbol": "MMT",
+    "price": "$162.49",
+    "market_cap": "$463.67M"
+  },
+  {
+    "id": 22,
+    "stock_name": "Valvoline Inc.",
+    "stock_symbol": "VVV",
+    "price": "$780.05",
+    "market_cap": "$4.84B"
+  },
+  {
+    "id": 23,
+    "stock_name": "Poage Bankshares, Inc.",
+    "stock_symbol": "PBSK",
+    "price": "$237.09",
+    "market_cap": "$70.06M"
+  },
+  {
+    "id": 24,
+    "stock_name": "Nuveen New York AMT-Free Quality Municipal",
+    "stock_symbol": "NRK",
+    "price": "$844.10",
+    "market_cap": "$1.16B"
+  },
+  {
+    "id": 25,
+    "stock_name": "Texas Capital Bancshares, Inc.",
+    "stock_symbol": "TCBIW",
+    "price": "$916.31",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 26,
+    "stock_name": "Korn/Ferry International",
+    "stock_symbol": "KFY",
+    "price": "$356.46",
+    "market_cap": "$1.88B"
+  },
+  {
+    "id": 27,
+    "stock_name": "Turning Point Brands, Inc.",
+    "stock_symbol": "TPB",
+    "price": "$497.13",
+    "market_cap": "$292.85M"
+  },
+  {
+    "id": 28,
+    "stock_name": "Polaris Industries Inc.",
+    "stock_symbol": "PII",
+    "price": "$511.48",
+    "market_cap": "$5.46B"
+  },
+  {
+    "id": 29,
+    "stock_name": "LyondellBasell Industries NV",
+    "stock_symbol": "LYB",
+    "price": "$796.44",
+    "market_cap": "$32.58B"
+  },
+  {
+    "id": 30,
+    "stock_name": "Wayfair Inc.",
+    "stock_symbol": "W",
+    "price": "$148.59",
+    "market_cap": "$6.6B"
+  },
+  {
+    "id": 31,
+    "stock_name": "Jensyn Acquistion Corp.",
+    "stock_symbol": "JSYNR",
+    "price": "$228.53",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 32,
+    "stock_name": "SuperValu Inc.",
+    "stock_symbol": "SVU",
+    "price": "$434.50",
+    "market_cap": "$864.67M"
+  },
+  {
+    "id": 33,
+    "stock_name": "Johnson Controls International plc",
+    "stock_symbol": "JCI",
+    "price": "$542.37",
+    "market_cap": "$39.27B"
+  },
+  {
+    "id": 34,
+    "stock_name": "Vornado Realty Trust",
+    "stock_symbol": "VNO^I",
+    "price": "$277.44",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 35,
+    "stock_name": "MFA Financial, Inc.",
+    "stock_symbol": "MFA^B",
+    "price": "$958.79",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 36,
+    "stock_name": "Government Properties Income Trust",
+    "stock_symbol": "GOV",
+    "price": "$884.07",
+    "market_cap": "$1.61B"
+  },
+  {
+    "id": 37,
+    "stock_name": "Siebert Financial Corp.",
+    "stock_symbol": "SIEB",
+    "price": "$912.85",
+    "market_cap": "$83.04M"
+  },
+  {
+    "id": 38,
+    "stock_name": "TTM Technologies, Inc.",
+    "stock_symbol": "TTMI",
+    "price": "$932.07",
+    "market_cap": "$1.84B"
+  },
+  {
+    "id": 39,
+    "stock_name": "First Trust Energy Infrastructure Fund",
+    "stock_symbol": "FIF",
+    "price": "$597.17",
+    "market_cap": "$326.61M"
+  },
+  {
+    "id": 40,
+    "stock_name": "SenesTech, Inc.",
+    "stock_symbol": "SNES",
+    "price": "$477.03",
+    "market_cap": "$63.24M"
+  },
+  {
+    "id": 41,
+    "stock_name": "Guggenheim Enhanced Equity Income Fund",
+    "stock_symbol": "GPM",
+    "price": "$195.65",
+    "market_cap": "$392.46M"
+  },
+  {
+    "id": 42,
+    "stock_name": "Codorus Valley Bancorp, Inc",
+    "stock_symbol": "CVLY",
+    "price": "$706.63",
+    "market_cap": "$225.47M"
+  },
+  {
+    "id": 43,
+    "stock_name": "Dow Chemical Company (The)",
+    "stock_symbol": "DOW",
+    "price": "$815.55",
+    "market_cap": "$78.67B"
+  },
+  {
+    "id": 44,
+    "stock_name": "Southwestern Energy Company",
+    "stock_symbol": "SWNC",
+    "price": "$255.69",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 45,
+    "stock_name": "Shiloh Industries, Inc.",
+    "stock_symbol": "SHLO",
+    "price": "$531.22",
+    "market_cap": "$243.62M"
+  },
+  {
+    "id": 46,
+    "stock_name": "H&R Block, Inc.",
+    "stock_symbol": "HRB",
+    "price": "$188.54",
+    "market_cap": "$6.2B"
+  },
+  {
+    "id": 47,
+    "stock_name": "Griffon Corporation",
+    "stock_symbol": "GFF",
+    "price": "$961.85",
+    "market_cap": "$1.1B"
+  },
+  {
+    "id": 48,
+    "stock_name": "Ferrari N.V.",
+    "stock_symbol": "RACE",
+    "price": "$976.65",
+    "market_cap": "$21.61B"
+  },
+  {
+    "id": 49,
+    "stock_name": "Acxiom Corporation",
+    "stock_symbol": "ACXM",
+    "price": "$548.57",
+    "market_cap": "$2.06B"
+  },
+  {
+    "id": 50,
+    "stock_name": "LCNB Corporation",
+    "stock_symbol": "LCNB",
+    "price": "$149.70",
+    "market_cap": "$204.58M"
+  },
+  {
+    "id": 51,
+    "stock_name": "MagneGas Corporation",
+    "stock_symbol": "MNGA",
+    "price": "$272.37",
+    "market_cap": "$7.87M"
+  },
+  {
+    "id": 52,
+    "stock_name": "PNC Financial Services Group, Inc. (The)",
+    "stock_symbol": "PNC^Q",
+    "price": "$762.46",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 53,
+    "stock_name": "National General Holdings Corp",
+    "stock_symbol": "NGHCP",
+    "price": "$24.69",
+    "market_cap": "$57.09M"
+  },
+  {
+    "id": 54,
+    "stock_name": "Select Income REIT",
+    "stock_symbol": "SIR",
+    "price": "$994.01",
+    "market_cap": "$2.21B"
+  },
+  {
+    "id": 55,
+    "stock_name": "CBS Corporation",
+    "stock_symbol": "CBS",
+    "price": "$678.46",
+    "market_cap": "$25.26B"
+  },
+  {
+    "id": 56,
+    "stock_name": "Baidu, Inc.",
+    "stock_symbol": "BIDU",
+    "price": "$9.90",
+    "market_cap": "$60.38B"
+  },
+  {
+    "id": 57,
+    "stock_name": "Renesola Ltd.",
+    "stock_symbol": "SOL",
+    "price": "$41.99",
+    "market_cap": "$49.79M"
+  },
+  {
+    "id": 58,
+    "stock_name": "Global Ship Lease, Inc.",
+    "stock_symbol": "GSL",
+    "price": "$96.24",
+    "market_cap": "$70.38M"
+  },
+  {
+    "id": 59,
+    "stock_name": "Gladstone Capital Corporation",
+    "stock_symbol": "GLADO",
+    "price": "$682.56",
+    "market_cap": "$56.32M"
+  },
+  {
+    "id": 60,
+    "stock_name": "Gencor Industries Inc.",
+    "stock_symbol": "GENC",
+    "price": "$513.14",
+    "market_cap": "$234.63M"
+  },
+  {
+    "id": 61,
+    "stock_name": "Spirit Realty Capital, Inc.",
+    "stock_symbol": "SRC",
+    "price": "$491.25",
+    "market_cap": "$3.76B"
+  },
+  {
+    "id": 62,
+    "stock_name": "GasLog Partners LP",
+    "stock_symbol": "GLOP^A",
+    "price": "$575.45",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 63,
+    "stock_name": "City Office REIT, Inc.",
+    "stock_symbol": "CIO^A",
+    "price": "$307.08",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 64,
+    "stock_name": "Regions Financial Corporation",
+    "stock_symbol": "RF",
+    "price": "$894.31",
+    "market_cap": "$17.26B"
+  },
+  {
+    "id": 65,
+    "stock_name": "Fidelity Southern Corporation",
+    "stock_symbol": "LION",
+    "price": "$773.47",
+    "market_cap": "$610.37M"
+  },
+  {
+    "id": 66,
+    "stock_name": "Neuralstem, Inc.",
+    "stock_symbol": "CUR",
+    "price": "$371.26",
+    "market_cap": "$60.09M"
+  },
+  {
+    "id": 67,
+    "stock_name": "Microbot Medical Inc. ",
+    "stock_symbol": "MBOT",
+    "price": "$25.46",
+    "market_cap": "$54.29M"
+  },
+  {
+    "id": 68,
+    "stock_name": "DDR Corp.",
+    "stock_symbol": "DDR^J",
+    "price": "$172.40",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 69,
+    "stock_name": "Orexigen Therapeutics, Inc.",
+    "stock_symbol": "OREX",
+    "price": "$218.23",
+    "market_cap": "$42.49M"
+  },
+  {
+    "id": 70,
+    "stock_name": "Transcat, Inc.",
+    "stock_symbol": "TRNS",
+    "price": "$919.92",
+    "market_cap": "$84.17M"
+  },
+  {
+    "id": 71,
+    "stock_name": "CPB Inc.",
+    "stock_symbol": "CPF",
+    "price": "$493.70",
+    "market_cap": "$967.78M"
+  },
+  {
+    "id": 72,
+    "stock_name": "Acuity Brands Inc",
+    "stock_symbol": "AYI",
+    "price": "$695.12",
+    "market_cap": "$7.43B"
+  },
+  {
+    "id": 73,
+    "stock_name": "CombiMatrix Corporation",
+    "stock_symbol": "CBMXW",
+    "price": "$955.68",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 74,
+    "stock_name": "Essex Property Trust, Inc.",
+    "stock_symbol": "ESS",
+    "price": "$791.45",
+    "market_cap": "$17.47B"
+  },
+  {
+    "id": 75,
+    "stock_name": "Triumph Group, Inc.",
+    "stock_symbol": "TGI",
+    "price": "$253.77",
+    "market_cap": "$1.58B"
+  },
+  {
+    "id": 76,
+    "stock_name": "Golar LNG Partners LP",
+    "stock_symbol": "GMLP",
+    "price": "$4.28",
+    "market_cap": "$1.38B"
+  },
+  {
+    "id": 77,
+    "stock_name": "HCP, Inc.",
+    "stock_symbol": "HCP",
+    "price": "$383.83",
+    "market_cap": "$15.23B"
+  },
+  {
+    "id": 78,
+    "stock_name": "Ebix, Inc.",
+    "stock_symbol": "EBIX",
+    "price": "$318.61",
+    "market_cap": "$1.73B"
+  },
+  {
+    "id": 79,
+    "stock_name": "AdvanSix Inc.",
+    "stock_symbol": "ASIX",
+    "price": "$588.57",
+    "market_cap": "$897.42M"
+  },
+  {
+    "id": 80,
+    "stock_name": "VelocityShares Daily 2x VIX Medium-Term ETN",
+    "stock_symbol": "TVIZ",
+    "price": "$506.51",
+    "market_cap": "$2.21M"
+  },
+  {
+    "id": 81,
+    "stock_name": "Weyerhaeuser Company",
+    "stock_symbol": "WY",
+    "price": "$776.02",
+    "market_cap": "$25.31B"
+  },
+  {
+    "id": 82,
+    "stock_name": "Medical Transcription Billing, Corp.",
+    "stock_symbol": "MTBC",
+    "price": "$350.66",
+    "market_cap": "$19.07M"
+  },
+  {
+    "id": 83,
+    "stock_name": "AmeriGas Partners, L.P.",
+    "stock_symbol": "APU",
+    "price": "$981.57",
+    "market_cap": "$4.27B"
+  },
+  {
+    "id": 84,
+    "stock_name": "P.A.M. Transportation Services, Inc.",
+    "stock_symbol": "PTSI",
+    "price": "$465.96",
+    "market_cap": "$129.34M"
+  },
+  {
+    "id": 85,
+    "stock_name": "ARMOUR Residential REIT, Inc.",
+    "stock_symbol": "ARR^B",
+    "price": "$506.88",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 86,
+    "stock_name": "Pacific Biosciences of California, Inc.",
+    "stock_symbol": "PACB",
+    "price": "$546.38",
+    "market_cap": "$316.2M"
+  },
+  {
+    "id": 87,
+    "stock_name": "Bank of America Corporation",
+    "stock_symbol": "BAC.WS.B",
+    "price": "$698.78",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 88,
+    "stock_name": "American Outdoor Brands Corporation",
+    "stock_symbol": "AOBC",
+    "price": "$269.28",
+    "market_cap": "$1.38B"
+  },
+  {
+    "id": 89,
+    "stock_name": "Alliance California Municipal Income Fund Inc",
+    "stock_symbol": "AKP",
+    "price": "$836.95",
+    "market_cap": "$117.69M"
+  },
+  {
+    "id": 90,
+    "stock_name": "White Mountains Insurance Group, Ltd.",
+    "stock_symbol": "WTM",
+    "price": "$900.73",
+    "market_cap": "$4B"
+  },
+  {
+    "id": 91,
+    "stock_name": "Sierra Bancorp",
+    "stock_symbol": "BSRR",
+    "price": "$967.64",
+    "market_cap": "$352.71M"
+  },
+  {
+    "id": 92,
+    "stock_name": "PowerShares QQQ Trust, Series 1",
+    "stock_symbol": "QQQ",
+    "price": "$230.18",
+    "market_cap": "$50.09B"
+  },
+  {
+    "id": 93,
+    "stock_name": "MagnaChip Semiconductor Corporation",
+    "stock_symbol": "MX",
+    "price": "$705.46",
+    "market_cap": "$305.6M"
+  },
+  {
+    "id": 94,
+    "stock_name": "Aetna Inc.",
+    "stock_symbol": "AET",
+    "price": "$917.88",
+    "market_cap": "$49.95B"
+  },
+  {
+    "id": 95,
+    "stock_name": "Southern California Edison Company",
+    "stock_symbol": "SCE^G",
+    "price": "$368.94",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 96,
+    "stock_name": "Orion Energy Systems, Inc.",
+    "stock_symbol": "OESX",
+    "price": "$409.89",
+    "market_cap": "$38.19M"
+  },
+  {
+    "id": 97,
+    "stock_name": "AllianzGI Diversified Income & Convertible Fund",
+    "stock_symbol": "ACV",
+    "price": "$333.89",
+    "market_cap": "$214.54M"
+  },
+  {
+    "id": 98,
+    "stock_name": "Arbutus Biopharma Corporation",
+    "stock_symbol": "ABUS",
+    "price": "$981.06",
+    "market_cap": "$198.09M"
+  },
+  {
+    "id": 99,
+    "stock_name": "JD.com, Inc.",
+    "stock_symbol": "JD",
+    "price": "$840.66",
+    "market_cap": "$54.18B"
+  },
+  {
+    "id": 100,
+    "stock_name": "Formula Systems (1985) Ltd.",
+    "stock_symbol": "FORTY",
+    "price": "$681.01",
+    "market_cap": "$575.9M"
+  },
+  {
+    "id": 101,
+    "stock_name": "Selective Insurance Group, Inc.",
+    "stock_symbol": "SIGI",
+    "price": "$895.42",
+    "market_cap": "$2.98B"
+  },
+  {
+    "id": 102,
+    "stock_name": "Lifeway Foods, Inc.",
+    "stock_symbol": "LWAY",
+    "price": "$891.91",
+    "market_cap": "$157.5M"
+  },
+  {
+    "id": 103,
+    "stock_name": "Colony NorthStar, Inc.",
+    "stock_symbol": "CLNS^C",
+    "price": "$240.50",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 104,
+    "stock_name": "Pulse Biosciences, Inc",
+    "stock_symbol": "PLSE",
+    "price": "$586.55",
+    "market_cap": "$494.01M"
+  },
+  {
+    "id": 105,
+    "stock_name": "AVEO Pharmaceuticals, Inc.",
+    "stock_symbol": "AVEO",
+    "price": "$969.51",
+    "market_cap": "$84.3M"
+  },
+  {
+    "id": 106,
+    "stock_name": "BSQUARE Corporation",
+    "stock_symbol": "BSQR",
+    "price": "$329.64",
+    "market_cap": "$62.85M"
+  },
+  {
+    "id": 107,
+    "stock_name": "Haverty Furniture Companies, Inc.",
+    "stock_symbol": "HVT.A",
+    "price": "$720.10",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 108,
+    "stock_name": "Allied World Assurance Company Holdings, AG",
+    "stock_symbol": "AWH",
+    "price": "$288.19",
+    "market_cap": "$4.57B"
+  },
+  {
+    "id": 109,
+    "stock_name": "PowerShares S&P SmallCap Materials Portfolio",
+    "stock_symbol": "PSCM",
+    "price": "$203.60",
+    "market_cap": "$55.25M"
+  },
+  {
+    "id": 110,
+    "stock_name": "Huntington Bancshares Incorporated",
+    "stock_symbol": "HBANN",
+    "price": "$32.43",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 111,
+    "stock_name": "Kitov Pharmaceuticals Holdings Ltd.",
+    "stock_symbol": "KTOVW",
+    "price": "$193.55",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 112,
+    "stock_name": "Eaton Vance Tax-Managed Diversified Equity Income Fund",
+    "stock_symbol": "ETY",
+    "price": "$932.90",
+    "market_cap": "$1.73B"
+  },
+  {
+    "id": 113,
+    "stock_name": "Templeton Global Income Fund, Inc.",
+    "stock_symbol": "GIM",
+    "price": "$18.86",
+    "market_cap": "$896.08M"
+  },
+  {
+    "id": 114,
+    "stock_name": "ING Group, N.V.",
+    "stock_symbol": "ING",
+    "price": "$673.61",
+    "market_cap": "$65.86B"
+  },
+  {
+    "id": 115,
+    "stock_name": "RXi Pharmaceuticals Corporation",
+    "stock_symbol": "RXIIW",
+    "price": "$49.63",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 116,
+    "stock_name": "Halyard Health, Inc.",
+    "stock_symbol": "HYH",
+    "price": "$747.74",
+    "market_cap": "$1.8B"
+  },
+  {
+    "id": 117,
+    "stock_name": "Nuveen Multi-Market Income Fund",
+    "stock_symbol": "JMM",
+    "price": "$755.13",
+    "market_cap": "$71.11M"
+  },
+  {
+    "id": 118,
+    "stock_name": "Wells Fargo & Company",
+    "stock_symbol": "WFC^P",
+    "price": "$484.63",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 119,
+    "stock_name": "PowerShares DWA Developed Markets Momentum Portfolio",
+    "stock_symbol": "PIZ",
+    "price": "$737.96",
+    "market_cap": "$200.65M"
+  },
+  {
+    "id": 120,
+    "stock_name": "Vail Resorts, Inc.",
+    "stock_symbol": "MTN",
+    "price": "$525.54",
+    "market_cap": "$8.37B"
+  },
+  {
+    "id": 121,
+    "stock_name": "Merrill Lynch & Co., Inc.",
+    "stock_symbol": "MER^P",
+    "price": "$264.34",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 122,
+    "stock_name": "Dillard's, Inc.",
+    "stock_symbol": "DDS",
+    "price": "$823.39",
+    "market_cap": "$1.62B"
+  },
+  {
+    "id": 123,
+    "stock_name": "THL Credit, Inc.",
+    "stock_symbol": "TCRZ",
+    "price": "$810.93",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 124,
+    "stock_name": "USANA Health Sciences, Inc.",
+    "stock_symbol": "USNA",
+    "price": "$427.02",
+    "market_cap": "$1.6B"
+  },
+  {
+    "id": 125,
+    "stock_name": "Nuveen Michigan Quality Municipal Income Fund",
+    "stock_symbol": "NUM",
+    "price": "$39.21",
+    "market_cap": "$286.36M"
+  },
+  {
+    "id": 126,
+    "stock_name": "M&T Bank Corporation",
+    "stock_symbol": "MTB",
+    "price": "$155.96",
+    "market_cap": "$24.88B"
+  },
+  {
+    "id": 127,
+    "stock_name": "Meta Financial Group, Inc.",
+    "stock_symbol": "CASH",
+    "price": "$371.49",
+    "market_cap": "$836.36M"
+  },
+  {
+    "id": 128,
+    "stock_name": "Walgreens Boots Alliance, Inc.",
+    "stock_symbol": "WBA",
+    "price": "$172.12",
+    "market_cap": "$84.79B"
+  },
+  {
+    "id": 129,
+    "stock_name": "Ritter Pharmaceuticals, Inc.",
+    "stock_symbol": "RTTR",
+    "price": "$695.02",
+    "market_cap": "$9.14M"
+  },
+  {
+    "id": 130,
+    "stock_name": "Republic Services, Inc.",
+    "stock_symbol": "RSG",
+    "price": "$152.96",
+    "market_cap": "$21.91B"
+  },
+  {
+    "id": 131,
+    "stock_name": "ICICI Bank Limited",
+    "stock_symbol": "IBN",
+    "price": "$987.78",
+    "market_cap": "$28.43B"
+  },
+  {
+    "id": 132,
+    "stock_name": "Seadrill Partners LLC",
+    "stock_symbol": "SDLP",
+    "price": "$467.54",
+    "market_cap": "$301.17M"
+  },
+  {
+    "id": 133,
+    "stock_name": "Baozun Inc.",
+    "stock_symbol": "BZUN",
+    "price": "$802.10",
+    "market_cap": "$1.09B"
+  },
+  {
+    "id": 134,
+    "stock_name": "Pinnacle Entertainment, Inc.",
+    "stock_symbol": "PNK",
+    "price": "$887.26",
+    "market_cap": "$1.16B"
+  },
+  {
+    "id": 135,
+    "stock_name": "Yield10 Bioscience, Inc.",
+    "stock_symbol": "YTEN",
+    "price": "$664.66",
+    "market_cap": "$1.44M"
+  },
+  {
+    "id": 136,
+    "stock_name": "Validea Market Legends ETF",
+    "stock_symbol": "VALX",
+    "price": "$467.09",
+    "market_cap": "$22.64M"
+  },
+  {
+    "id": 137,
+    "stock_name": "Blackrock MuniVest Fund II, Inc.",
+    "stock_symbol": "MVT",
+    "price": "$696.49",
+    "market_cap": "$337.68M"
+  },
+  {
+    "id": 138,
+    "stock_name": "News Corporation",
+    "stock_symbol": "NWSA",
+    "price": "$270.72",
+    "market_cap": "$7.99B"
+  },
+  {
+    "id": 139,
+    "stock_name": "Novanta Inc.",
+    "stock_symbol": "NOVT",
+    "price": "$294.66",
+    "market_cap": "$1.25B"
+  },
+  {
+    "id": 140,
+    "stock_name": "MiMedx Group, Inc",
+    "stock_symbol": "MDXG",
+    "price": "$958.20",
+    "market_cap": "$1.67B"
+  },
+  {
+    "id": 141,
+    "stock_name": "Cumulus Media Inc.",
+    "stock_symbol": "CMLS",
+    "price": "$853.60",
+    "market_cap": "$14.07M"
+  },
+  {
+    "id": 142,
+    "stock_name": "Tri Continental Corporation",
+    "stock_symbol": "TY^",
+    "price": "$169.13",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 143,
+    "stock_name": "Broadwind Energy, Inc.",
+    "stock_symbol": "BWEN",
+    "price": "$45.35",
+    "market_cap": "$68.47M"
+  },
+  {
+    "id": 144,
+    "stock_name": "Black Box Corporation",
+    "stock_symbol": "BBOX",
+    "price": "$164.66",
+    "market_cap": "$117.47M"
+  },
+  {
+    "id": 145,
+    "stock_name": "BCE, Inc.",
+    "stock_symbol": "BCE",
+    "price": "$308.83",
+    "market_cap": "$40.47B"
+  },
+  {
+    "id": 146,
+    "stock_name": "WhiteHorse Finance, Inc.",
+    "stock_symbol": "WHF",
+    "price": "$667.03",
+    "market_cap": "$262.86M"
+  },
+  {
+    "id": 147,
+    "stock_name": "NetEase, Inc.",
+    "stock_symbol": "NTES",
+    "price": "$686.16",
+    "market_cap": "$38.98B"
+  },
+  {
+    "id": 148,
+    "stock_name": "Western Asset Municipal Defined Opportunity Trust Inc",
+    "stock_symbol": "MTT",
+    "price": "$769.99",
+    "market_cap": "$273.41M"
+  },
+  {
+    "id": 149,
+    "stock_name": "Legg Mason, Inc.",
+    "stock_symbol": "LMHA",
+    "price": "$365.12",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 150,
+    "stock_name": "TransAlta Corporation",
+    "stock_symbol": "TAC",
+    "price": "$256.27",
+    "market_cap": "$1.69B"
+  },
+  {
+    "id": 151,
+    "stock_name": "Cousins Properties Incorporated",
+    "stock_symbol": "CUZ",
+    "price": "$126.50",
+    "market_cap": "$3.77B"
+  },
+  {
+    "id": 152,
+    "stock_name": "Ossen Innovation Co., Ltd.",
+    "stock_symbol": "OSN",
+    "price": "$295.93",
+    "market_cap": "$14.05M"
+  },
+  {
+    "id": 153,
+    "stock_name": "Gabelli Utility Trust (The)",
+    "stock_symbol": "GUT",
+    "price": "$249.09",
+    "market_cap": "$296.84M"
+  },
+  {
+    "id": 154,
+    "stock_name": "Genco Shipping & Trading Limited Warrants Expiring 12/31/2021 ",
+    "stock_symbol": "GNK",
+    "price": "$223.71",
+    "market_cap": "$323.86M"
+  },
+  {
+    "id": 155,
+    "stock_name": "Dominion Diamond Corporation",
+    "stock_symbol": "DDC",
+    "price": "$309.50",
+    "market_cap": "$1.03B"
+  },
+  {
+    "id": 156,
+    "stock_name": "Guidewire Software, Inc.",
+    "stock_symbol": "GWRE",
+    "price": "$478.79",
+    "market_cap": "$5B"
+  },
+  {
+    "id": 157,
+    "stock_name": "GP Investments Acquisition Corp.",
+    "stock_symbol": "GPIA",
+    "price": "$614.12",
+    "market_cap": "$216.49M"
+  },
+  {
+    "id": 158,
+    "stock_name": "Activision Blizzard, Inc",
+    "stock_symbol": "ATVI",
+    "price": "$680.75",
+    "market_cap": "$44.32B"
+  },
+  {
+    "id": 159,
+    "stock_name": "ENDRA Life Sciences Inc.",
+    "stock_symbol": "NDRAU",
+    "price": "$204.12",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 160,
+    "stock_name": "Nuveen Municipal 2021 Target Term Fund",
+    "stock_symbol": "NHA",
+    "price": "$202.91",
+    "market_cap": "$84.71M"
+  },
+  {
+    "id": 161,
+    "stock_name": "Honeywell International Inc.",
+    "stock_symbol": "HON",
+    "price": "$888.34",
+    "market_cap": "$102.63B"
+  },
+  {
+    "id": 162,
+    "stock_name": "Main Street Capital Corporation",
+    "stock_symbol": "MAIN",
+    "price": "$723.98",
+    "market_cap": "$2.18B"
+  },
+  {
+    "id": 163,
+    "stock_name": "Quinpario Acquisition Corp. 2",
+    "stock_symbol": "QPACU",
+    "price": "$42.58",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 164,
+    "stock_name": "Gladstone Investment Corporation",
+    "stock_symbol": "GAINM",
+    "price": "$47.66",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 165,
+    "stock_name": "Orchid Island Capital, Inc.",
+    "stock_symbol": "ORC",
+    "price": "$825.92",
+    "market_cap": "$350.52M"
+  },
+  {
+    "id": 166,
+    "stock_name": "Sparton Corporation",
+    "stock_symbol": "SPA",
+    "price": "$584.46",
+    "market_cap": "$177.98M"
+  },
+  {
+    "id": 167,
+    "stock_name": "Marine Petroleum Trust",
+    "stock_symbol": "MARPS",
+    "price": "$106.34",
+    "market_cap": "$6.92M"
+  },
+  {
+    "id": 168,
+    "stock_name": "RH",
+    "stock_symbol": "RH",
+    "price": "$693.67",
+    "market_cap": "$1.74B"
+  },
+  {
+    "id": 169,
+    "stock_name": "Express, Inc.",
+    "stock_symbol": "EXPR",
+    "price": "$522.41",
+    "market_cap": "$540.53M"
+  },
+  {
+    "id": 170,
+    "stock_name": "Zymeworks Inc.",
+    "stock_symbol": "ZYME",
+    "price": "$331.81",
+    "market_cap": "$240.93M"
+  },
+  {
+    "id": 171,
+    "stock_name": "Pharmerica Corporation",
+    "stock_symbol": "PMC",
+    "price": "$132.48",
+    "market_cap": "$778.92M"
+  },
+  {
+    "id": 172,
+    "stock_name": "TiVo Corporation",
+    "stock_symbol": "TIVO",
+    "price": "$186.21",
+    "market_cap": "$2.25B"
+  },
+  {
+    "id": 173,
+    "stock_name": "Capital Bank Financial Corp.",
+    "stock_symbol": "CBF",
+    "price": "$676.31",
+    "market_cap": "$1.99B"
+  },
+  {
+    "id": 174,
+    "stock_name": "Cenveo Inc",
+    "stock_symbol": "CVO",
+    "price": "$358.92",
+    "market_cap": "$52.17M"
+  },
+  {
+    "id": 175,
+    "stock_name": "Platform Specialty Products Corporation",
+    "stock_symbol": "PAH",
+    "price": "$408.36",
+    "market_cap": "$3.52B"
+  },
+  {
+    "id": 176,
+    "stock_name": "Sunworks, Inc.",
+    "stock_symbol": "SUNW",
+    "price": "$302.22",
+    "market_cap": "$34.78M"
+  },
+  {
+    "id": 177,
+    "stock_name": "Blackrock MuniYield Pennsylvania Quality Fund",
+    "stock_symbol": "MPA",
+    "price": "$673.97",
+    "market_cap": "$192.01M"
+  },
+  {
+    "id": 178,
+    "stock_name": "NAPCO Security Technologies, Inc.",
+    "stock_symbol": "NSSC",
+    "price": "$326.32",
+    "market_cap": "$175.26M"
+  },
+  {
+    "id": 179,
+    "stock_name": "Liberty Interactive Corporation",
+    "stock_symbol": "QVCA",
+    "price": "$155.08",
+    "market_cap": "$11.08B"
+  },
+  {
+    "id": 180,
+    "stock_name": "Lamb Weston Holdings, Inc.",
+    "stock_symbol": "LW",
+    "price": "$910.42",
+    "market_cap": "$6.58B"
+  },
+  {
+    "id": 181,
+    "stock_name": "Performance Food Group Company",
+    "stock_symbol": "PFGC",
+    "price": "$159.87",
+    "market_cap": "$2.93B"
+  },
+  {
+    "id": 182,
+    "stock_name": "DAQO New Energy Corp.",
+    "stock_symbol": "DQ",
+    "price": "$336.06",
+    "market_cap": "$208.28M"
+  },
+  {
+    "id": 183,
+    "stock_name": "Synacor, Inc.",
+    "stock_symbol": "SYNC",
+    "price": "$437.81",
+    "market_cap": "$129.26M"
+  },
+  {
+    "id": 184,
+    "stock_name": "ECA Marcellus Trust I",
+    "stock_symbol": "ECT",
+    "price": "$558.98",
+    "market_cap": "$37.85M"
+  },
+  {
+    "id": 185,
+    "stock_name": "La-Z-Boy Incorporated",
+    "stock_symbol": "LZB",
+    "price": "$668.72",
+    "market_cap": "$1.32B"
+  },
+  {
+    "id": 186,
+    "stock_name": "Axis Capital Holdings Limited",
+    "stock_symbol": "AXS^E",
+    "price": "$92.19",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 187,
+    "stock_name": "Rowan Companies plc",
+    "stock_symbol": "RDC",
+    "price": "$453.32",
+    "market_cap": "$1.52B"
+  },
+  {
+    "id": 188,
+    "stock_name": "Aspen Insurance Holdings Limited",
+    "stock_symbol": "AHL^B.CL",
+    "price": "$222.91",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 189,
+    "stock_name": "CoreSite Realty Corporation",
+    "stock_symbol": "COR",
+    "price": "$236.44",
+    "market_cap": "$3.73B"
+  },
+  {
+    "id": 190,
+    "stock_name": "Interstate Power and Light Company",
+    "stock_symbol": "IPL^D",
+    "price": "$24.98",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 191,
+    "stock_name": "Fair Isaac Corporation",
+    "stock_symbol": "FICO",
+    "price": "$190.11",
+    "market_cap": "$4.19B"
+  },
+  {
+    "id": 192,
+    "stock_name": "Tekla Life Sciences Investors",
+    "stock_symbol": "HQL",
+    "price": "$678.64",
+    "market_cap": "$425.52M"
+  },
+  {
+    "id": 193,
+    "stock_name": "Hingham Institution for Savings",
+    "stock_symbol": "HIFS",
+    "price": "$707.29",
+    "market_cap": "$379.39M"
+  },
+  {
+    "id": 194,
+    "stock_name": "Arconic Inc.",
+    "stock_symbol": "ARNC^B",
+    "price": "$609.63",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 195,
+    "stock_name": "Gladstone Land Corporation",
+    "stock_symbol": "LAND",
+    "price": "$715.53",
+    "market_cap": "$133.56M"
+  },
+  {
+    "id": 196,
+    "stock_name": "Nuveen All Cap Energy MLP Opportunities Fund",
+    "stock_symbol": "JMLP",
+    "price": "$267.97",
+    "market_cap": "$113.19M"
+  },
+  {
+    "id": 197,
+    "stock_name": "Liberty Interactive Corporation",
+    "stock_symbol": "QVCA",
+    "price": "$946.28",
+    "market_cap": "$11.08B"
+  },
+  {
+    "id": 198,
+    "stock_name": "Alamos Gold Inc.",
+    "stock_symbol": "AGI",
+    "price": "$304.02",
+    "market_cap": "$2.12B"
+  },
+  {
+    "id": 199,
+    "stock_name": "Brookfield Global Listed Infrastructure Income Fund",
+    "stock_symbol": "INF",
+    "price": "$57.52",
+    "market_cap": "$188.64M"
+  },
+  {
+    "id": 200,
+    "stock_name": "Insperity, Inc.",
+    "stock_symbol": "NSP",
+    "price": "$711.51",
+    "market_cap": "$1.6B"
+  },
+  {
+    "id": 201,
+    "stock_name": "Big 5 Sporting Goods Corporation",
+    "stock_symbol": "BGFV",
+    "price": "$638.18",
+    "market_cap": "$316.8M"
+  },
+  {
+    "id": 202,
+    "stock_name": "GAMCO Natural Resources, Gold & Income Tust ",
+    "stock_symbol": "GNT",
+    "price": "$704.26",
+    "market_cap": "$140.84M"
+  },
+  {
+    "id": 203,
+    "stock_name": "Scotts Miracle-Gro Company (The)",
+    "stock_symbol": "SMG",
+    "price": "$303.49",
+    "market_cap": "$5.23B"
+  },
+  {
+    "id": 204,
+    "stock_name": "Sino-Global Shipping America, Ltd.",
+    "stock_symbol": "SINO",
+    "price": "$60.88",
+    "market_cap": "$27.99M"
+  },
+  {
+    "id": 205,
+    "stock_name": "TAL Education Group",
+    "stock_symbol": "TAL",
+    "price": "$421.87",
+    "market_cap": "$9.56B"
+  },
+  {
+    "id": 206,
+    "stock_name": "Radware Ltd.",
+    "stock_symbol": "RDWR",
+    "price": "$151.24",
+    "market_cap": "$759.26M"
+  },
+  {
+    "id": 207,
+    "stock_name": "Urban Edge Properties",
+    "stock_symbol": "UE",
+    "price": "$444.27",
+    "market_cap": "$2.66B"
+  },
+  {
+    "id": 208,
+    "stock_name": "CBAK Energy Technology, Inc.",
+    "stock_symbol": "CBAK",
+    "price": "$371.02",
+    "market_cap": "$25.63M"
+  },
+  {
+    "id": 209,
+    "stock_name": "CNOOC Limited",
+    "stock_symbol": "CEO",
+    "price": "$550.10",
+    "market_cap": "$1.11B"
+  },
+  {
+    "id": 210,
+    "stock_name": "Corporate Office Properties Trust",
+    "stock_symbol": "OFC",
+    "price": "$680.87",
+    "market_cap": "$3.52B"
+  },
+  {
+    "id": 211,
+    "stock_name": "Time Warner Inc.",
+    "stock_symbol": "TWX",
+    "price": "$738.95",
+    "market_cap": "$76.93B"
+  },
+  {
+    "id": 212,
+    "stock_name": "Navios Maritime Acquisition Corporation",
+    "stock_symbol": "NNA",
+    "price": "$836.01",
+    "market_cap": "$226.45M"
+  },
+  {
+    "id": 213,
+    "stock_name": "Guggenheim Strategic Opportunities Fund",
+    "stock_symbol": "GOF",
+    "price": "$549.21",
+    "market_cap": "$439.76M"
+  },
+  {
+    "id": 214,
+    "stock_name": "Raytheon Company",
+    "stock_symbol": "RTN",
+    "price": "$569.55",
+    "market_cap": "$47.32B"
+  },
+  {
+    "id": 215,
+    "stock_name": "Blackrock Defined Opportunity Credit Trust",
+    "stock_symbol": "BHL",
+    "price": "$284.66",
+    "market_cap": "$123.81M"
+  },
+  {
+    "id": 216,
+    "stock_name": "Alliance Data Systems Corporation",
+    "stock_symbol": "ADS",
+    "price": "$392.01",
+    "market_cap": "$14.19B"
+  },
+  {
+    "id": 217,
+    "stock_name": "Freshpet, Inc.",
+    "stock_symbol": "FRPT",
+    "price": "$557.60",
+    "market_cap": "$542.42M"
+  },
+  {
+    "id": 218,
+    "stock_name": "Lincoln Educational Services Corporation",
+    "stock_symbol": "LINC",
+    "price": "$766.39",
+    "market_cap": "$80.58M"
+  },
+  {
+    "id": 219,
+    "stock_name": "Coeur Mining, Inc.",
+    "stock_symbol": "CDE",
+    "price": "$645.79",
+    "market_cap": "$1.52B"
+  },
+  {
+    "id": 220,
+    "stock_name": "National Western Life Group, Inc.",
+    "stock_symbol": "NWLI",
+    "price": "$949.69",
+    "market_cap": "$1.18B"
+  },
+  {
+    "id": 221,
+    "stock_name": "United Technologies Corporation",
+    "stock_symbol": "UTX",
+    "price": "$847.79",
+    "market_cap": "$96.49B"
+  },
+  {
+    "id": 222,
+    "stock_name": "Employers Holdings Inc",
+    "stock_symbol": "EIG",
+    "price": "$819.72",
+    "market_cap": "$1.37B"
+  },
+  {
+    "id": 223,
+    "stock_name": "H. B. Fuller Company",
+    "stock_symbol": "FUL",
+    "price": "$182.04",
+    "market_cap": "$2.64B"
+  },
+  {
+    "id": 224,
+    "stock_name": "Hexcel Corporation",
+    "stock_symbol": "HXL",
+    "price": "$543.53",
+    "market_cap": "$4.68B"
+  },
+  {
+    "id": 225,
+    "stock_name": "MRV Communications, Inc.",
+    "stock_symbol": "MRVC",
+    "price": "$416.68",
+    "market_cap": "$63.58M"
+  },
+  {
+    "id": 226,
+    "stock_name": "1st Constitution Bancorp (NJ)",
+    "stock_symbol": "FCCY",
+    "price": "$857.01",
+    "market_cap": "$136.87M"
+  },
+  {
+    "id": 227,
+    "stock_name": "iKang Healthcare Group, Inc.",
+    "stock_symbol": "KANG",
+    "price": "$874.17",
+    "market_cap": "$980.68M"
+  },
+  {
+    "id": 228,
+    "stock_name": "Murphy USA Inc.",
+    "stock_symbol": "MUSA",
+    "price": "$771.25",
+    "market_cap": "$2.62B"
+  },
+  {
+    "id": 229,
+    "stock_name": "Valeritas Holdings, Inc.",
+    "stock_symbol": "VLRX",
+    "price": "$979.98",
+    "market_cap": "$35.24M"
+  },
+  {
+    "id": 230,
+    "stock_name": "Guidance Software, Inc.",
+    "stock_symbol": "GUID",
+    "price": "$335.56",
+    "market_cap": "$222.81M"
+  },
+  {
+    "id": 231,
+    "stock_name": "PowerShares DWA Emerging Markets Momentum Portfolio",
+    "stock_symbol": "PIE",
+    "price": "$560.84",
+    "market_cap": "$176.16M"
+  },
+  {
+    "id": 232,
+    "stock_name": "Celadon Group, Inc.",
+    "stock_symbol": "CGI",
+    "price": "$301.48",
+    "market_cap": "$86.31M"
+  },
+  {
+    "id": 233,
+    "stock_name": "First Internet Bancorp",
+    "stock_symbol": "INBK",
+    "price": "$874.30",
+    "market_cap": "$177.71M"
+  },
+  {
+    "id": 234,
+    "stock_name": "Federal Agricultural Mortgage Corporation",
+    "stock_symbol": "AGM^A",
+    "price": "$765.72",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 235,
+    "stock_name": "Caleres, Inc.",
+    "stock_symbol": "CAL",
+    "price": "$335.56",
+    "market_cap": "$1.15B"
+  },
+  {
+    "id": 236,
+    "stock_name": "Gogo Inc.",
+    "stock_symbol": "GOGO",
+    "price": "$853.29",
+    "market_cap": "$1.04B"
+  },
+  {
+    "id": 237,
+    "stock_name": "Safety Insurance Group, Inc.",
+    "stock_symbol": "SAFT",
+    "price": "$472.81",
+    "market_cap": "$1.06B"
+  },
+  {
+    "id": 238,
+    "stock_name": "Western Gas Equity Partners, LP",
+    "stock_symbol": "WGP",
+    "price": "$701.72",
+    "market_cap": "$9.3B"
+  },
+  {
+    "id": 239,
+    "stock_name": "CIM Commercial Trust Corporation",
+    "stock_symbol": "CMCT",
+    "price": "$927.96",
+    "market_cap": "$1.46B"
+  },
+  {
+    "id": 240,
+    "stock_name": "iShares S&P Emerging Markets Infrastructure Index Fund",
+    "stock_symbol": "EMIF",
+    "price": "$959.22",
+    "market_cap": "$47.7M"
+  },
+  {
+    "id": 241,
+    "stock_name": "Insperity, Inc.",
+    "stock_symbol": "NSP",
+    "price": "$612.12",
+    "market_cap": "$1.6B"
+  },
+  {
+    "id": 242,
+    "stock_name": "Avery Dennison Corporation",
+    "stock_symbol": "AVY",
+    "price": "$317.29",
+    "market_cap": "$7.58B"
+  },
+  {
+    "id": 243,
+    "stock_name": "Fastenal Company",
+    "stock_symbol": "FAST",
+    "price": "$439.97",
+    "market_cap": "$12.84B"
+  },
+  {
+    "id": 244,
+    "stock_name": "CONSOL Energy Inc.",
+    "stock_symbol": "CNX",
+    "price": "$960.84",
+    "market_cap": "$3.33B"
+  },
+  {
+    "id": 245,
+    "stock_name": "First Trust Energy Infrastructure Fund",
+    "stock_symbol": "FIF",
+    "price": "$790.44",
+    "market_cap": "$326.61M"
+  },
+  {
+    "id": 246,
+    "stock_name": "Evercore Partners Inc",
+    "stock_symbol": "EVR",
+    "price": "$658.70",
+    "market_cap": "$2.95B"
+  },
+  {
+    "id": 247,
+    "stock_name": "Cedar Realty Trust, Inc.",
+    "stock_symbol": "CDR^B",
+    "price": "$798.58",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 248,
+    "stock_name": "Navigant Consulting, Inc.",
+    "stock_symbol": "NCI",
+    "price": "$28.22",
+    "market_cap": "$938.83M"
+  },
+  {
+    "id": 249,
+    "stock_name": "Innovative Industrial Properties, Inc.",
+    "stock_symbol": "IIPR",
+    "price": "$761.09",
+    "market_cap": "$61.03M"
+  },
+  {
+    "id": 250,
+    "stock_name": "ePlus inc.",
+    "stock_symbol": "PLUS",
+    "price": "$346.59",
+    "market_cap": "$1.05B"
+  },
+  {
+    "id": 251,
+    "stock_name": "J. Alexander's Holdings, Inc.",
+    "stock_symbol": "JAX",
+    "price": "$937.55",
+    "market_cap": "$172.67M"
+  },
+  {
+    "id": 252,
+    "stock_name": "ECA Marcellus Trust I",
+    "stock_symbol": "ECT",
+    "price": "$447.86",
+    "market_cap": "$37.85M"
+  },
+  {
+    "id": 253,
+    "stock_name": "Kentucky First Federal Bancorp",
+    "stock_symbol": "KFFB",
+    "price": "$209.97",
+    "market_cap": "$81.49M"
+  },
+  {
+    "id": 254,
+    "stock_name": "Merrill Lynch & Co., Inc.",
+    "stock_symbol": "MER^P",
+    "price": "$671.22",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 255,
+    "stock_name": "Asbury Automotive Group Inc",
+    "stock_symbol": "ABG",
+    "price": "$239.48",
+    "market_cap": "$1.15B"
+  },
+  {
+    "id": 256,
+    "stock_name": "Pioneer Municipal High Income Trust",
+    "stock_symbol": "MHI",
+    "price": "$452.05",
+    "market_cap": "$271.66M"
+  },
+  {
+    "id": 257,
+    "stock_name": "RAIT Financial Trust",
+    "stock_symbol": "RFT",
+    "price": "$888.74",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 258,
+    "stock_name": "Charter Communications, Inc.",
+    "stock_symbol": "CHTR",
+    "price": "$73.54",
+    "market_cap": "$91.02B"
+  },
+  {
+    "id": 259,
+    "stock_name": "Pimco Global Stocksplus & Income Fund",
+    "stock_symbol": "PGP",
+    "price": "$541.23",
+    "market_cap": "$190.99M"
+  },
+  {
+    "id": 260,
+    "stock_name": "SPI Energy Co., Ltd.",
+    "stock_symbol": "SPI",
+    "price": "$393.70",
+    "market_cap": "$50.64M"
+  },
+  {
+    "id": 261,
+    "stock_name": "Telenav, Inc.",
+    "stock_symbol": "TNAV",
+    "price": "$364.65",
+    "market_cap": "$356.44M"
+  },
+  {
+    "id": 262,
+    "stock_name": "iShares MSCI ACWI ex US Index Fund",
+    "stock_symbol": "ACWX",
+    "price": "$393.97",
+    "market_cap": "$2.33B"
+  },
+  {
+    "id": 263,
+    "stock_name": "Embotelladora Andina S.A.",
+    "stock_symbol": "AKO.A",
+    "price": "$696.94",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 264,
+    "stock_name": "Fortinet, Inc.",
+    "stock_symbol": "FTNT",
+    "price": "$438.45",
+    "market_cap": "$6.65B"
+  },
+  {
+    "id": 265,
+    "stock_name": "Tile Shop Hldgs, Inc.",
+    "stock_symbol": "TTS",
+    "price": "$679.85",
+    "market_cap": "$1.12B"
+  },
+  {
+    "id": 266,
+    "stock_name": "RiverNorth/DoubleLine Strategic Opportunity Fund, Inc.",
+    "stock_symbol": "OPP",
+    "price": "$500.67",
+    "market_cap": "$210.14M"
+  },
+  {
+    "id": 267,
+    "stock_name": "Nuveen High Income 2020 Target Term Fund",
+    "stock_symbol": "JHA",
+    "price": "$515.69",
+    "market_cap": "$296.92M"
+  },
+  {
+    "id": 268,
+    "stock_name": "Oasis Petroleum Inc.",
+    "stock_symbol": "OAS",
+    "price": "$66.27",
+    "market_cap": "$1.94B"
+  },
+  {
+    "id": 269,
+    "stock_name": "The Dixie Group, Inc.",
+    "stock_symbol": "DXYN",
+    "price": "$146.91",
+    "market_cap": "$71.76M"
+  },
+  {
+    "id": 270,
+    "stock_name": "ALPS/Dorsey Wright Sector Momentum ETF",
+    "stock_symbol": "SWIN",
+    "price": "$863.65",
+    "market_cap": "$6.79M"
+  },
+  {
+    "id": 271,
+    "stock_name": "Wintrust Financial Corporation",
+    "stock_symbol": "WTFC",
+    "price": "$967.25",
+    "market_cap": "$4.27B"
+  },
+  {
+    "id": 272,
+    "stock_name": "China Fund, Inc. (The)",
+    "stock_symbol": "CHN",
+    "price": "$913.68",
+    "market_cap": "$284.89M"
+  },
+  {
+    "id": 273,
+    "stock_name": "AAON, Inc.",
+    "stock_symbol": "AAON",
+    "price": "$782.30",
+    "market_cap": "$1.96B"
+  },
+  {
+    "id": 274,
+    "stock_name": "Social Reality, Inc.",
+    "stock_symbol": "SRAX",
+    "price": "$716.09",
+    "market_cap": "$10.83M"
+  },
+  {
+    "id": 275,
+    "stock_name": "Infinity Pharmaceuticals, Inc.",
+    "stock_symbol": "INFI",
+    "price": "$683.56",
+    "market_cap": "$85.75M"
+  },
+  {
+    "id": 276,
+    "stock_name": "Pioneer High Income Trust",
+    "stock_symbol": "PHT",
+    "price": "$563.28",
+    "market_cap": "$289.1M"
+  },
+  {
+    "id": 277,
+    "stock_name": "Digiliti Money Group, Inc.",
+    "stock_symbol": "DGLT",
+    "price": "$251.96",
+    "market_cap": "$31.11M"
+  },
+  {
+    "id": 278,
+    "stock_name": "MV Oil Trust",
+    "stock_symbol": "MVO",
+    "price": "$313.22",
+    "market_cap": "$71.65M"
+  },
+  {
+    "id": 279,
+    "stock_name": "Blackrock MuniEnhanced Fund, Inc.",
+    "stock_symbol": "MEN",
+    "price": "$988.02",
+    "market_cap": "$352.17M"
+  },
+  {
+    "id": 280,
+    "stock_name": "Fly Leasing Limited",
+    "stock_symbol": "FLY",
+    "price": "$873.77",
+    "market_cap": "$430.9M"
+  },
+  {
+    "id": 281,
+    "stock_name": "Vishay Precision Group, Inc.",
+    "stock_symbol": "VPG",
+    "price": "$943.18",
+    "market_cap": "$229.33M"
+  },
+  {
+    "id": 282,
+    "stock_name": "VEREIT Inc.",
+    "stock_symbol": "VER",
+    "price": "$96.54",
+    "market_cap": "$8.15B"
+  },
+  {
+    "id": 283,
+    "stock_name": "Tantech Holdings Ltd.",
+    "stock_symbol": "TANH",
+    "price": "$723.21",
+    "market_cap": "$65.89M"
+  },
+  {
+    "id": 284,
+    "stock_name": "Fortress Transportation and Infrastructure Investors LLC",
+    "stock_symbol": "FTAI",
+    "price": "$418.05",
+    "market_cap": "$1.19B"
+  },
+  {
+    "id": 285,
+    "stock_name": "Rand Capital Corporation",
+    "stock_symbol": "RAND",
+    "price": "$143.61",
+    "market_cap": "$17.83M"
+  },
+  {
+    "id": 286,
+    "stock_name": "Century Casinos, Inc.",
+    "stock_symbol": "CNTY",
+    "price": "$921.66",
+    "market_cap": "$185.42M"
+  },
+  {
+    "id": 287,
+    "stock_name": "Taubman Centers, Inc.",
+    "stock_symbol": "TCO",
+    "price": "$135.69",
+    "market_cap": "$3.51B"
+  },
+  {
+    "id": 288,
+    "stock_name": "Orix Corp Ads",
+    "stock_symbol": "IX",
+    "price": "$387.25",
+    "market_cap": "$20.83B"
+  },
+  {
+    "id": 289,
+    "stock_name": "Threshold Pharmaceuticals, Inc.",
+    "stock_symbol": "THLD",
+    "price": "$99.13",
+    "market_cap": "$27.59M"
+  },
+  {
+    "id": 290,
+    "stock_name": "Tesco Corporation",
+    "stock_symbol": "TESO",
+    "price": "$113.63",
+    "market_cap": "$186.89M"
+  },
+  {
+    "id": 291,
+    "stock_name": "UroGen Pharma Ltd.",
+    "stock_symbol": "URGN",
+    "price": "$802.37",
+    "market_cap": "$186.89M"
+  },
+  {
+    "id": 292,
+    "stock_name": "OUTFRONT Media Inc.",
+    "stock_symbol": "OUT",
+    "price": "$83.29",
+    "market_cap": "$3.27B"
+  },
+  {
+    "id": 293,
+    "stock_name": "Union Bankshares Corporation",
+    "stock_symbol": "UBSH",
+    "price": "$111.85",
+    "market_cap": "$1.53B"
+  },
+  {
+    "id": 294,
+    "stock_name": "Atlantic American Corporation",
+    "stock_symbol": "AAME",
+    "price": "$124.75",
+    "market_cap": "$74.51M"
+  },
+  {
+    "id": 295,
+    "stock_name": "CalAtlantic Group, Inc.",
+    "stock_symbol": "CAA",
+    "price": "$435.66",
+    "market_cap": "$3.96B"
+  },
+  {
+    "id": 296,
+    "stock_name": "I.D. Systems, Inc.",
+    "stock_symbol": "IDSY",
+    "price": "$404.42",
+    "market_cap": "$87.7M"
+  },
+  {
+    "id": 297,
+    "stock_name": "iShares S&P India Nifty 50 Index Fund",
+    "stock_symbol": "INDY",
+    "price": "$731.40",
+    "market_cap": "$904.29M"
+  },
+  {
+    "id": 298,
+    "stock_name": "Guggenheim Strategic Opportunities Fund",
+    "stock_symbol": "GOF",
+    "price": "$639.51",
+    "market_cap": "$439.76M"
+  },
+  {
+    "id": 299,
+    "stock_name": "Blue Hills Bancorp, Inc.",
+    "stock_symbol": "BHBK",
+    "price": "$98.05",
+    "market_cap": "$476.74M"
+  },
+  {
+    "id": 300,
+    "stock_name": "Polar Power, Inc.",
+    "stock_symbol": "POLA",
+    "price": "$641.94",
+    "market_cap": "$47.06M"
+  },
+  {
+    "id": 301,
+    "stock_name": "j2 Global, Inc.",
+    "stock_symbol": "JCOM",
+    "price": "$866.38",
+    "market_cap": "$4.23B"
+  },
+  {
+    "id": 302,
+    "stock_name": "SLM Corporation",
+    "stock_symbol": "SLMBP",
+    "price": "$693.15",
+    "market_cap": "$289.76M"
+  },
+  {
+    "id": 303,
+    "stock_name": "JetPay Corporation",
+    "stock_symbol": "JTPY",
+    "price": "$955.95",
+    "market_cap": "$32.74M"
+  },
+  {
+    "id": 304,
+    "stock_name": "The Ultimate Software Group, Inc.",
+    "stock_symbol": "ULTI",
+    "price": "$548.84",
+    "market_cap": "$6.35B"
+  },
+  {
+    "id": 305,
+    "stock_name": "City Office REIT, Inc.",
+    "stock_symbol": "CIO^A",
+    "price": "$373.47",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 306,
+    "stock_name": "Nuveen Michigan Quality Municipal Income Fund",
+    "stock_symbol": "NUM",
+    "price": "$685.36",
+    "market_cap": "$286.36M"
+  },
+  {
+    "id": 307,
+    "stock_name": "Celestica, Inc.",
+    "stock_symbol": "CLS",
+    "price": "$295.16",
+    "market_cap": "$1.69B"
+  },
+  {
+    "id": 308,
+    "stock_name": "First Trust RiverFront Dynamic Europe ETF",
+    "stock_symbol": "RFEU",
+    "price": "$922.73",
+    "market_cap": "$52.66M"
+  },
+  {
+    "id": 309,
+    "stock_name": "Five Prime Therapeutics, Inc.",
+    "stock_symbol": "FPRX",
+    "price": "$336.40",
+    "market_cap": "$809.46M"
+  },
+  {
+    "id": 310,
+    "stock_name": "PBF Energy Inc.",
+    "stock_symbol": "PBF",
+    "price": "$262.43",
+    "market_cap": "$2.39B"
+  },
+  {
+    "id": 311,
+    "stock_name": "Interface, Inc.",
+    "stock_symbol": "TILE",
+    "price": "$601.91",
+    "market_cap": "$1.22B"
+  },
+  {
+    "id": 312,
+    "stock_name": "Shoe Carnival, Inc.",
+    "stock_symbol": "SCVL",
+    "price": "$905.35",
+    "market_cap": "$345.67M"
+  },
+  {
+    "id": 313,
+    "stock_name": "Baxter International Inc.",
+    "stock_symbol": "BAX",
+    "price": "$278.16",
+    "market_cap": "$31.49B"
+  },
+  {
+    "id": 314,
+    "stock_name": "M I Acquisitions, Inc.",
+    "stock_symbol": "MACQW",
+    "price": "$613.65",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 315,
+    "stock_name": "Ovid Therapeutics Inc.",
+    "stock_symbol": "OVID",
+    "price": "$400.97",
+    "market_cap": "$326.22M"
+  },
+  {
+    "id": 316,
+    "stock_name": "Associated Banc-Corp",
+    "stock_symbol": "ASB^D",
+    "price": "$106.18",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 317,
+    "stock_name": "Nuveen High Income 2020 Target Term Fund",
+    "stock_symbol": "JHY",
+    "price": "$411.76",
+    "market_cap": "$145.49M"
+  },
+  {
+    "id": 318,
+    "stock_name": "Chunghwa Telecom Co., Ltd.",
+    "stock_symbol": "CHT",
+    "price": "$45.07",
+    "market_cap": "$27.64B"
+  },
+  {
+    "id": 319,
+    "stock_name": "Omeros Corporation",
+    "stock_symbol": "OMER",
+    "price": "$543.91",
+    "market_cap": "$1.04B"
+  },
+  {
+    "id": 320,
+    "stock_name": "PCSB Financial Corporation",
+    "stock_symbol": "PCSB",
+    "price": "$149.15",
+    "market_cap": "$324.79M"
+  },
+  {
+    "id": 321,
+    "stock_name": "PowerShares Russell 1000 Low Beta Equal Weight Portfolio",
+    "stock_symbol": "USLB",
+    "price": "$759.46",
+    "market_cap": "$158.81M"
+  },
+  {
+    "id": 322,
+    "stock_name": "Frontline Ltd.",
+    "stock_symbol": "FRO",
+    "price": "$242.59",
+    "market_cap": "$920.37M"
+  },
+  {
+    "id": 323,
+    "stock_name": "Dreyfus Strategic Municipals, Inc.",
+    "stock_symbol": "LEO",
+    "price": "$364.98",
+    "market_cap": "$548.61M"
+  },
+  {
+    "id": 324,
+    "stock_name": "Rockwell Automation, Inc.",
+    "stock_symbol": "ROK",
+    "price": "$693.51",
+    "market_cap": "$21.14B"
+  },
+  {
+    "id": 325,
+    "stock_name": "PowerShares High Yield Equity Dividend Achievers Portfolio",
+    "stock_symbol": "PEY",
+    "price": "$998.03",
+    "market_cap": "$953.28M"
+  },
+  {
+    "id": 326,
+    "stock_name": "Activision Blizzard, Inc",
+    "stock_symbol": "ATVI",
+    "price": "$896.58",
+    "market_cap": "$44.32B"
+  },
+  {
+    "id": 327,
+    "stock_name": "YuMe, Inc.",
+    "stock_symbol": "YUME",
+    "price": "$947.51",
+    "market_cap": "$163.2M"
+  },
+  {
+    "id": 328,
+    "stock_name": "CBAK Energy Technology, Inc.",
+    "stock_symbol": "CBAK",
+    "price": "$585.21",
+    "market_cap": "$25.63M"
+  },
+  {
+    "id": 329,
+    "stock_name": "Varonis Systems, Inc.",
+    "stock_symbol": "VRNS",
+    "price": "$450.74",
+    "market_cap": "$975.72M"
+  },
+  {
+    "id": 330,
+    "stock_name": "Neonode Inc.",
+    "stock_symbol": "NEON",
+    "price": "$40.18",
+    "market_cap": "$60.57M"
+  },
+  {
+    "id": 331,
+    "stock_name": "Barnes Group, Inc.",
+    "stock_symbol": "B",
+    "price": "$82.76",
+    "market_cap": "$3.16B"
+  },
+  {
+    "id": 332,
+    "stock_name": "OFG Bancorp",
+    "stock_symbol": "OFG^D",
+    "price": "$776.53",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 333,
+    "stock_name": "RAIT Financial Trust",
+    "stock_symbol": "RAS^A",
+    "price": "$783.96",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 334,
+    "stock_name": "Camping World Holdings, Inc.",
+    "stock_symbol": "CWH",
+    "price": "$496.13",
+    "market_cap": "$2.47B"
+  },
+  {
+    "id": 335,
+    "stock_name": "Colonial Investment Grade Municipal Trust",
+    "stock_symbol": "CXH",
+    "price": "$582.41",
+    "market_cap": "$116.91M"
+  },
+  {
+    "id": 336,
+    "stock_name": "Seacoast Banking Corporation of Florida",
+    "stock_symbol": "SBCF",
+    "price": "$124.08",
+    "market_cap": "$1.07B"
+  },
+  {
+    "id": 337,
+    "stock_name": "Renasant Corporation",
+    "stock_symbol": "RNST",
+    "price": "$486.81",
+    "market_cap": "$1.94B"
+  },
+  {
+    "id": 338,
+    "stock_name": "THL Credit, Inc.",
+    "stock_symbol": "TCRZ",
+    "price": "$504.68",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 339,
+    "stock_name": "UnitedHealth Group Incorporated",
+    "stock_symbol": "UNH",
+    "price": "$211.63",
+    "market_cap": "$175.03B"
+  },
+  {
+    "id": 340,
+    "stock_name": "ICON plc",
+    "stock_symbol": "ICLR",
+    "price": "$565.75",
+    "market_cap": "$5B"
+  },
+  {
+    "id": 341,
+    "stock_name": "Innophos Holdings, Inc.",
+    "stock_symbol": "IPHS",
+    "price": "$239.61",
+    "market_cap": "$854.42M"
+  },
+  {
+    "id": 342,
+    "stock_name": "FS Bancorp, Inc.",
+    "stock_symbol": "FSBW",
+    "price": "$511.87",
+    "market_cap": "$139.32M"
+  },
+  {
+    "id": 343,
+    "stock_name": "China Cord Blood Corporation",
+    "stock_symbol": "CO",
+    "price": "$15.35",
+    "market_cap": "$666.52M"
+  },
+  {
+    "id": 344,
+    "stock_name": "WSFS Financial Corporation",
+    "stock_symbol": "WSFS",
+    "price": "$61.13",
+    "market_cap": "$1.45B"
+  },
+  {
+    "id": 345,
+    "stock_name": "Valvoline Inc.",
+    "stock_symbol": "VVV",
+    "price": "$483.83",
+    "market_cap": "$4.84B"
+  },
+  {
+    "id": 346,
+    "stock_name": "Valeritas Holdings, Inc.",
+    "stock_symbol": "VLRX",
+    "price": "$332.41",
+    "market_cap": "$35.24M"
+  },
+  {
+    "id": 347,
+    "stock_name": "American Homes 4 Rent",
+    "stock_symbol": "AMH^D",
+    "price": "$703.17",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 348,
+    "stock_name": "GTY Technology Holdings, Inc.",
+    "stock_symbol": "GTYHW",
+    "price": "$938.42",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 349,
+    "stock_name": "Medtronic plc",
+    "stock_symbol": "MDT",
+    "price": "$836.41",
+    "market_cap": "$120.57B"
+  },
+  {
+    "id": 350,
+    "stock_name": "Affimed N.V.",
+    "stock_symbol": "AFMD",
+    "price": "$451.67",
+    "market_cap": "$87.88M"
+  },
+  {
+    "id": 351,
+    "stock_name": "County Bancorp, Inc.",
+    "stock_symbol": "ICBK",
+    "price": "$700.44",
+    "market_cap": "$159.72M"
+  },
+  {
+    "id": 352,
+    "stock_name": "Nuveen Preferred Income Opportunites Fund",
+    "stock_symbol": "JPC",
+    "price": "$406.59",
+    "market_cap": "$999.98M"
+  },
+  {
+    "id": 353,
+    "stock_name": "Fabrinet",
+    "stock_symbol": "FN",
+    "price": "$704.77",
+    "market_cap": "$1.4B"
+  },
+  {
+    "id": 354,
+    "stock_name": "Washington Real Estate Investment Trust",
+    "stock_symbol": "WRE",
+    "price": "$20.71",
+    "market_cap": "$2.47B"
+  },
+  {
+    "id": 355,
+    "stock_name": "LaSalle Hotel Properties",
+    "stock_symbol": "LHO^I",
+    "price": "$973.56",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 356,
+    "stock_name": "Proto Labs, Inc.",
+    "stock_symbol": "PRLB",
+    "price": "$754.82",
+    "market_cap": "$1.72B"
+  },
+  {
+    "id": 357,
+    "stock_name": "PhaseRx, Inc.",
+    "stock_symbol": "PZRX",
+    "price": "$173.06",
+    "market_cap": "$12.16M"
+  },
+  {
+    "id": 358,
+    "stock_name": "Alliance One International, Inc.",
+    "stock_symbol": "AOI",
+    "price": "$476.22",
+    "market_cap": "$134.83M"
+  },
+  {
+    "id": 359,
+    "stock_name": "Chemours Company (The)",
+    "stock_symbol": "CC",
+    "price": "$528.03",
+    "market_cap": "$6.77B"
+  },
+  {
+    "id": 360,
+    "stock_name": "Aoxin Tianli Group, Inc.",
+    "stock_symbol": "ABAC",
+    "price": "$14.17",
+    "market_cap": "$16.29M"
+  },
+  {
+    "id": 361,
+    "stock_name": "Thomson Reuters Corp",
+    "stock_symbol": "TRI",
+    "price": "$576.39",
+    "market_cap": "$32.96B"
+  },
+  {
+    "id": 362,
+    "stock_name": "First Trust International Multi-Asset Diversified Income Index",
+    "stock_symbol": "YDIV",
+    "price": "$93.61",
+    "market_cap": "$9.94M"
+  },
+  {
+    "id": 363,
+    "stock_name": "American Express Company",
+    "stock_symbol": "AXP",
+    "price": "$210.72",
+    "market_cap": "$72.8B"
+  },
+  {
+    "id": 364,
+    "stock_name": "Morgan Stanley",
+    "stock_symbol": "MS^E",
+    "price": "$424.88",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 365,
+    "stock_name": "Anworth Mortgage Asset  Corporation",
+    "stock_symbol": "ANH^C",
+    "price": "$400.65",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 366,
+    "stock_name": "Taiwan Semiconductor Manufacturing Company Ltd.",
+    "stock_symbol": "TSM",
+    "price": "$555.02",
+    "market_cap": "$186.02B"
+  },
+  {
+    "id": 367,
+    "stock_name": "NextEra Energy, Inc.",
+    "stock_symbol": "NEE^C",
+    "price": "$150.91",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 368,
+    "stock_name": "Peoples Financial Corporation",
+    "stock_symbol": "PFBX",
+    "price": "$574.88",
+    "market_cap": "$66.09M"
+  },
+  {
+    "id": 369,
+    "stock_name": "Intuit Inc.",
+    "stock_symbol": "INTU",
+    "price": "$592.74",
+    "market_cap": "$35.74B"
+  },
+  {
+    "id": 370,
+    "stock_name": "Ivy NextShares",
+    "stock_symbol": "IVFGC",
+    "price": "$876.04",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 371,
+    "stock_name": "Murphy USA Inc.",
+    "stock_symbol": "MUSA",
+    "price": "$693.17",
+    "market_cap": "$2.62B"
+  },
+  {
+    "id": 372,
+    "stock_name": "Resources Connection, Inc.",
+    "stock_symbol": "RECN",
+    "price": "$455.14",
+    "market_cap": "$400.32M"
+  },
+  {
+    "id": 373,
+    "stock_name": "Nustar Energy L.P.",
+    "stock_symbol": "NS^A",
+    "price": "$310.16",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 374,
+    "stock_name": "Annaly Capital Management Inc",
+    "stock_symbol": "NLY",
+    "price": "$674.43",
+    "market_cap": "$12.59B"
+  },
+  {
+    "id": 375,
+    "stock_name": "Ocean Bio-Chem, Inc.",
+    "stock_symbol": "OBCI",
+    "price": "$105.44",
+    "market_cap": "$37.26M"
+  },
+  {
+    "id": 376,
+    "stock_name": "Continental Resources, Inc.",
+    "stock_symbol": "CLR",
+    "price": "$7.69",
+    "market_cap": "$12.39B"
+  },
+  {
+    "id": 377,
+    "stock_name": "M III Acquisition Corp.",
+    "stock_symbol": "MIII",
+    "price": "$576.95",
+    "market_cap": "$187.3M"
+  },
+  {
+    "id": 378,
+    "stock_name": "Triton International Limited",
+    "stock_symbol": "TRTN",
+    "price": "$314.86",
+    "market_cap": "$1.08B"
+  },
+  {
+    "id": 379,
+    "stock_name": "Terreno Realty Corporation",
+    "stock_symbol": "TRNO^A.CL",
+    "price": "$583.90",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 380,
+    "stock_name": "Eagle Bulk Shipping Inc.",
+    "stock_symbol": "EGLE",
+    "price": "$653.49",
+    "market_cap": "$332.73M"
+  },
+  {
+    "id": 381,
+    "stock_name": "Michael Kors Holdings Limited",
+    "stock_symbol": "KORS",
+    "price": "$88.88",
+    "market_cap": "$5.39B"
+  },
+  {
+    "id": 382,
+    "stock_name": "PennantPark Investment Corporation",
+    "stock_symbol": "PNTA.CL",
+    "price": "$716.92",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 383,
+    "stock_name": "Lehman ABS Corporation",
+    "stock_symbol": "JBK",
+    "price": "$900.49",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 384,
+    "stock_name": "Ormat Technologies, Inc.",
+    "stock_symbol": "ORA",
+    "price": "$947.83",
+    "market_cap": "$3.02B"
+  },
+  {
+    "id": 385,
+    "stock_name": "Aevi Genomic Medicine, Inc.",
+    "stock_symbol": "GNMX",
+    "price": "$728.48",
+    "market_cap": "$46.76M"
+  },
+  {
+    "id": 386,
+    "stock_name": "Golar LNG Partners LP",
+    "stock_symbol": "GMLP",
+    "price": "$483.32",
+    "market_cap": "$1.38B"
+  },
+  {
+    "id": 387,
+    "stock_name": "AtriCure, Inc.",
+    "stock_symbol": "ATRC",
+    "price": "$554.04",
+    "market_cap": "$741.39M"
+  },
+  {
+    "id": 388,
+    "stock_name": "Renasant Corporation",
+    "stock_symbol": "RNST",
+    "price": "$803.52",
+    "market_cap": "$1.94B"
+  },
+  {
+    "id": 389,
+    "stock_name": "Syndax Pharmaceuticals, Inc.",
+    "stock_symbol": "SNDX",
+    "price": "$581.53",
+    "market_cap": "$204.47M"
+  },
+  {
+    "id": 390,
+    "stock_name": "Marin Software Incorporated",
+    "stock_symbol": "MRIN",
+    "price": "$54.99",
+    "market_cap": "$47.31M"
+  },
+  {
+    "id": 391,
+    "stock_name": "Pacific Continental Corporation (Ore)",
+    "stock_symbol": "PCBK",
+    "price": "$580.27",
+    "market_cap": "$581.41M"
+  },
+  {
+    "id": 392,
+    "stock_name": "Opus Bank",
+    "stock_symbol": "OPB",
+    "price": "$565.73",
+    "market_cap": "$795.23M"
+  },
+  {
+    "id": 393,
+    "stock_name": "CSG Systems International, Inc.",
+    "stock_symbol": "CSGS",
+    "price": "$13.39",
+    "market_cap": "$1.37B"
+  },
+  {
+    "id": 394,
+    "stock_name": "Stone Harbor Emerging Markets Total Income Fund",
+    "stock_symbol": "EDI",
+    "price": "$645.26",
+    "market_cap": "$155.93M"
+  },
+  {
+    "id": 395,
+    "stock_name": "Annaly Capital Management Inc",
+    "stock_symbol": "NLY^C",
+    "price": "$263.49",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 396,
+    "stock_name": "Wesco Aircraft Holdings, Inc.",
+    "stock_symbol": "WAIR",
+    "price": "$467.15",
+    "market_cap": "$1B"
+  },
+  {
+    "id": 397,
+    "stock_name": "POSCO",
+    "stock_symbol": "PKX",
+    "price": "$852.46",
+    "market_cap": "$19.18B"
+  },
+  {
+    "id": 398,
+    "stock_name": "Five Oaks Investment Corp.",
+    "stock_symbol": "OAKS",
+    "price": "$124.76",
+    "market_cap": "$80.86M"
+  },
+  {
+    "id": 399,
+    "stock_name": "Liberty Media Corporation",
+    "stock_symbol": "LSXMB",
+    "price": "$570.83",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 400,
+    "stock_name": "Synthetic Fixed-Income Securities, Inc.",
+    "stock_symbol": "GJV",
+    "price": "$219.02",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 401,
+    "stock_name": "European Equity Fund, Inc. (The)",
+    "stock_symbol": "EEA",
+    "price": "$849.62",
+    "market_cap": "$75.98M"
+  },
+  {
+    "id": 402,
+    "stock_name": "GAMCO Natural Resources, Gold & Income Tust ",
+    "stock_symbol": "GNT",
+    "price": "$521.84",
+    "market_cap": "$140.84M"
+  },
+  {
+    "id": 403,
+    "stock_name": "Monroe Capital Corporation",
+    "stock_symbol": "MRCC",
+    "price": "$307.11",
+    "market_cap": "$253.51M"
+  },
+  {
+    "id": 404,
+    "stock_name": "Regal Entertainment Group",
+    "stock_symbol": "RGC",
+    "price": "$500.95",
+    "market_cap": "$3.36B"
+  },
+  {
+    "id": 405,
+    "stock_name": "Bank of Commerce Holdings (CA)",
+    "stock_symbol": "BOCH",
+    "price": "$319.79",
+    "market_cap": "$182.92M"
+  },
+  {
+    "id": 406,
+    "stock_name": "John Wiley & Sons, Inc.",
+    "stock_symbol": "JW.A",
+    "price": "$798.06",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 407,
+    "stock_name": "Applied DNA Sciences Inc",
+    "stock_symbol": "APDNW",
+    "price": "$938.60",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 408,
+    "stock_name": "Valero Energy Partners LP",
+    "stock_symbol": "VLP",
+    "price": "$122.08",
+    "market_cap": "$2.93B"
+  },
+  {
+    "id": 409,
+    "stock_name": "Check-Cap Ltd.",
+    "stock_symbol": "CHEK",
+    "price": "$444.99",
+    "market_cap": "$29.39M"
+  },
+  {
+    "id": 410,
+    "stock_name": "Shineco, Inc.",
+    "stock_symbol": "TYHT",
+    "price": "$268.74",
+    "market_cap": "$77.2M"
+  },
+  {
+    "id": 411,
+    "stock_name": "WPP plc",
+    "stock_symbol": "WPPGY",
+    "price": "$702.10",
+    "market_cap": "$28.43B"
+  },
+  {
+    "id": 412,
+    "stock_name": "Sigma Designs, Inc.",
+    "stock_symbol": "SIGM",
+    "price": "$816.04",
+    "market_cap": "$221.54M"
+  },
+  {
+    "id": 413,
+    "stock_name": "PowerShares DWA Financial Momentum Portfolio",
+    "stock_symbol": "PFI",
+    "price": "$903.18",
+    "market_cap": "$78.45M"
+  },
+  {
+    "id": 414,
+    "stock_name": "Endeavour Silver Corporation",
+    "stock_symbol": "EXK",
+    "price": "$220.78",
+    "market_cap": "$370.33M"
+  },
+  {
+    "id": 415,
+    "stock_name": "U.S. Auto Parts Network, Inc.",
+    "stock_symbol": "PRTS",
+    "price": "$113.70",
+    "market_cap": "$107.35M"
+  },
+  {
+    "id": 416,
+    "stock_name": "BioLife Solutions, Inc.",
+    "stock_symbol": "BLFS",
+    "price": "$927.11",
+    "market_cap": "$29.72M"
+  },
+  {
+    "id": 417,
+    "stock_name": "Acacia Research Corporation",
+    "stock_symbol": "ACTG",
+    "price": "$100.76",
+    "market_cap": "$192.23M"
+  },
+  {
+    "id": 418,
+    "stock_name": "HealthStream, Inc.",
+    "stock_symbol": "HSTM",
+    "price": "$444.94",
+    "market_cap": "$952.64M"
+  },
+  {
+    "id": 419,
+    "stock_name": "Omeros Corporation",
+    "stock_symbol": "OMER",
+    "price": "$919.16",
+    "market_cap": "$1.04B"
+  },
+  {
+    "id": 420,
+    "stock_name": "RAIT Financial Trust",
+    "stock_symbol": "RAS",
+    "price": "$387.54",
+    "market_cap": "$209.48M"
+  },
+  {
+    "id": 421,
+    "stock_name": "Cobalt International Energy, Inc.",
+    "stock_symbol": "CIE",
+    "price": "$444.56",
+    "market_cap": "$93.34M"
+  },
+  {
+    "id": 422,
+    "stock_name": "CounterPath Corporation",
+    "stock_symbol": "CPAH",
+    "price": "$932.63",
+    "market_cap": "$10.76M"
+  },
+  {
+    "id": 423,
+    "stock_name": "MFS Multimarket Income Trust",
+    "stock_symbol": "MMT",
+    "price": "$672.66",
+    "market_cap": "$463.67M"
+  },
+  {
+    "id": 424,
+    "stock_name": "Starbucks Corporation",
+    "stock_symbol": "SBUX",
+    "price": "$786.13",
+    "market_cap": "$87.09B"
+  },
+  {
+    "id": 425,
+    "stock_name": "Seneca Foods Corp.",
+    "stock_symbol": "SENEB",
+    "price": "$223.23",
+    "market_cap": "$355.28M"
+  },
+  {
+    "id": 426,
+    "stock_name": "LSC Communications, Inc.",
+    "stock_symbol": "LKSD",
+    "price": "$437.04",
+    "market_cap": "$742.65M"
+  },
+  {
+    "id": 427,
+    "stock_name": "Alpine Global Premier Properties Fund",
+    "stock_symbol": "AWP",
+    "price": "$659.27",
+    "market_cap": "$532.95M"
+  },
+  {
+    "id": 428,
+    "stock_name": "New Mountain Finance Corporation",
+    "stock_symbol": "NMFC",
+    "price": "$630.11",
+    "market_cap": "$1.09B"
+  },
+  {
+    "id": 429,
+    "stock_name": "Prosperity Bancshares, Inc.",
+    "stock_symbol": "PB",
+    "price": "$658.49",
+    "market_cap": "$4.59B"
+  },
+  {
+    "id": 430,
+    "stock_name": "Arbor Realty Trust",
+    "stock_symbol": "ABR^A",
+    "price": "$902.76",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 431,
+    "stock_name": "TESARO, Inc.",
+    "stock_symbol": "TSRO",
+    "price": "$255.80",
+    "market_cap": "$7.77B"
+  },
+  {
+    "id": 432,
+    "stock_name": "KLA-Tencor Corporation",
+    "stock_symbol": "KLAC",
+    "price": "$399.49",
+    "market_cap": "$15.32B"
+  },
+  {
+    "id": 433,
+    "stock_name": "Teekay LNG Partners L.P.",
+    "stock_symbol": "TGP^A",
+    "price": "$779.38",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 434,
+    "stock_name": "Sun Bancorp, Inc.",
+    "stock_symbol": "SNBC",
+    "price": "$309.12",
+    "market_cap": "$483.16M"
+  },
+  {
+    "id": 435,
+    "stock_name": "Ares Management L.P.",
+    "stock_symbol": "ARES^A",
+    "price": "$408.10",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 436,
+    "stock_name": "Federal Agricultural Mortgage Corporation",
+    "stock_symbol": "AGM^B",
+    "price": "$103.11",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 437,
+    "stock_name": "Valeritas Holdings, Inc.",
+    "stock_symbol": "VLRX",
+    "price": "$541.72",
+    "market_cap": "$35.24M"
+  },
+  {
+    "id": 438,
+    "stock_name": "iStar Financial Inc.",
+    "stock_symbol": "STAR^E",
+    "price": "$271.16",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 439,
+    "stock_name": "RiverNorth Opportunities Fund, Inc.",
+    "stock_symbol": "RIV",
+    "price": "$347.01",
+    "market_cap": "$74.88M"
+  },
+  {
+    "id": 440,
+    "stock_name": "Tortoise Power and Energy Infrastructure Fund, Inc",
+    "stock_symbol": "TPZ",
+    "price": "$176.73",
+    "market_cap": "$145.93M"
+  },
+  {
+    "id": 441,
+    "stock_name": "Salem Media Group, Inc.",
+    "stock_symbol": "SALM",
+    "price": "$577.33",
+    "market_cap": "$187.36M"
+  },
+  {
+    "id": 442,
+    "stock_name": "National Health Investors, Inc.",
+    "stock_symbol": "NHI",
+    "price": "$541.39",
+    "market_cap": "$3.2B"
+  },
+  {
+    "id": 443,
+    "stock_name": "HFF, Inc.",
+    "stock_symbol": "HF",
+    "price": "$370.50",
+    "market_cap": "$1.28B"
+  },
+  {
+    "id": 444,
+    "stock_name": "Blackrock MuniYield Quality Fund, Inc.",
+    "stock_symbol": "MQY",
+    "price": "$700.32",
+    "market_cap": "$475.85M"
+  },
+  {
+    "id": 445,
+    "stock_name": "Panhandle Royalty Company",
+    "stock_symbol": "PHX",
+    "price": "$623.60",
+    "market_cap": "$384.22M"
+  },
+  {
+    "id": 446,
+    "stock_name": "Second Sight Medical Products, Inc.",
+    "stock_symbol": "EYESW",
+    "price": "$689.50",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 447,
+    "stock_name": "Capitala Finance Corp.",
+    "stock_symbol": "CPTAG",
+    "price": "$819.65",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 448,
+    "stock_name": "Meritage Corporation",
+    "stock_symbol": "MTH",
+    "price": "$660.06",
+    "market_cap": "$1.62B"
+  },
+  {
+    "id": 449,
+    "stock_name": "Hovnanian Enterprises Inc",
+    "stock_symbol": "HOV",
+    "price": "$60.25",
+    "market_cap": "$340.42M"
+  },
+  {
+    "id": 450,
+    "stock_name": "Calgon Carbon Corporation",
+    "stock_symbol": "CCC",
+    "price": "$373.35",
+    "market_cap": "$748.61M"
+  },
+  {
+    "id": 451,
+    "stock_name": "Pacific Coast Oil Trust",
+    "stock_symbol": "ROYT",
+    "price": "$667.55",
+    "market_cap": "$61.73M"
+  },
+  {
+    "id": 452,
+    "stock_name": "S&P Global Inc.",
+    "stock_symbol": "SPGI",
+    "price": "$15.91",
+    "market_cap": "$38.28B"
+  },
+  {
+    "id": 453,
+    "stock_name": "Inter Parfums, Inc.",
+    "stock_symbol": "IPAR",
+    "price": "$969.02",
+    "market_cap": "$1.12B"
+  },
+  {
+    "id": 454,
+    "stock_name": "Frequency Electronics, Inc.",
+    "stock_symbol": "FEIM",
+    "price": "$79.13",
+    "market_cap": "$81.19M"
+  },
+  {
+    "id": 455,
+    "stock_name": "PJT Partners Inc.",
+    "stock_symbol": "PJT",
+    "price": "$879.29",
+    "market_cap": "$718.32M"
+  },
+  {
+    "id": 456,
+    "stock_name": "Criteo S.A.",
+    "stock_symbol": "CRTO",
+    "price": "$645.85",
+    "market_cap": "$3.04B"
+  },
+  {
+    "id": 457,
+    "stock_name": "Navistar International Corporation",
+    "stock_symbol": "NAV^D",
+    "price": "$923.50",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 458,
+    "stock_name": "ChinaNet Online Holdings, Inc.",
+    "stock_symbol": "CNET",
+    "price": "$39.66",
+    "market_cap": "$15.58M"
+  },
+  {
+    "id": 459,
+    "stock_name": "Globus Maritime Limited",
+    "stock_symbol": "GLBS",
+    "price": "$880.29",
+    "market_cap": "$35.37M"
+  },
+  {
+    "id": 460,
+    "stock_name": "Inspired Entertainment, Inc.",
+    "stock_symbol": "INSE",
+    "price": "$865.78",
+    "market_cap": "$251.09M"
+  },
+  {
+    "id": 461,
+    "stock_name": "VALE S.A.",
+    "stock_symbol": "VALE.P",
+    "price": "$781.68",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 462,
+    "stock_name": "Fifth Street Finance Corp.",
+    "stock_symbol": "FSC",
+    "price": "$746.46",
+    "market_cap": "$561.02M"
+  },
+  {
+    "id": 463,
+    "stock_name": "Community Health Systems, Inc.",
+    "stock_symbol": "CYH",
+    "price": "$962.07",
+    "market_cap": "$1.03B"
+  },
+  {
+    "id": 464,
+    "stock_name": "Vulcan Materials Company",
+    "stock_symbol": "VMC",
+    "price": "$500.98",
+    "market_cap": "$17.1B"
+  },
+  {
+    "id": 465,
+    "stock_name": "JetPay Corporation",
+    "stock_symbol": "JTPY",
+    "price": "$584.24",
+    "market_cap": "$32.74M"
+  },
+  {
+    "id": 466,
+    "stock_name": "Epizyme, Inc.",
+    "stock_symbol": "EPZM",
+    "price": "$86.75",
+    "market_cap": "$796.59M"
+  },
+  {
+    "id": 467,
+    "stock_name": "Spok Holdings, Inc.",
+    "stock_symbol": "SPOK",
+    "price": "$156.40",
+    "market_cap": "$371.61M"
+  },
+  {
+    "id": 468,
+    "stock_name": "Arotech Corporation",
+    "stock_symbol": "ARTX",
+    "price": "$817.36",
+    "market_cap": "$92.5M"
+  },
+  {
+    "id": 469,
+    "stock_name": "Great Ajax Corp.",
+    "stock_symbol": "AJXA",
+    "price": "$853.92",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 470,
+    "stock_name": "FirstService Corporation",
+    "stock_symbol": "FSV",
+    "price": "$230.88",
+    "market_cap": "$2.15B"
+  },
+  {
+    "id": 471,
+    "stock_name": "ImmunoGen, Inc.",
+    "stock_symbol": "IMGN",
+    "price": "$521.29",
+    "market_cap": "$409.22M"
+  },
+  {
+    "id": 472,
+    "stock_name": "Danaos Corporation",
+    "stock_symbol": "DAC",
+    "price": "$831.77",
+    "market_cap": "$153.72M"
+  },
+  {
+    "id": 473,
+    "stock_name": "Capstead Mortgage Corporation",
+    "stock_symbol": "CMO^E",
+    "price": "$402.30",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 474,
+    "stock_name": "Global X Internet of Things ETF",
+    "stock_symbol": "SNSR",
+    "price": "$12.99",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 475,
+    "stock_name": "J P Morgan Chase & Co",
+    "stock_symbol": "JPM^A",
+    "price": "$94.03",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 476,
+    "stock_name": "AXT Inc",
+    "stock_symbol": "AXTI",
+    "price": "$90.00",
+    "market_cap": "$248.85M"
+  },
+  {
+    "id": 477,
+    "stock_name": "Loncar Cancer Immunotherapy ETF",
+    "stock_symbol": "CNCR",
+    "price": "$414.57",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 478,
+    "stock_name": "FelCor Lodging Trust Incorporated",
+    "stock_symbol": "FCH",
+    "price": "$841.38",
+    "market_cap": "$1.03B"
+  },
+  {
+    "id": 479,
+    "stock_name": "Cohen & Steers Quality Income Realty Fund Inc",
+    "stock_symbol": "RQI",
+    "price": "$482.56",
+    "market_cap": "$1.4B"
+  },
+  {
+    "id": 480,
+    "stock_name": "Allstate Corporation (The)",
+    "stock_symbol": "ALL^F",
+    "price": "$898.11",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 481,
+    "stock_name": "Diodes Incorporated",
+    "stock_symbol": "DIOD",
+    "price": "$529.87",
+    "market_cap": "$1.22B"
+  },
+  {
+    "id": 482,
+    "stock_name": "Cirrus Logic, Inc.",
+    "stock_symbol": "CRUS",
+    "price": "$881.50",
+    "market_cap": "$3.99B"
+  },
+  {
+    "id": 483,
+    "stock_name": "Integer Holdings Corporation",
+    "stock_symbol": "ITGR",
+    "price": "$901.82",
+    "market_cap": "$1.31B"
+  },
+  {
+    "id": 484,
+    "stock_name": "Flex Ltd.",
+    "stock_symbol": "FLEX",
+    "price": "$82.57",
+    "market_cap": "$8.74B"
+  },
+  {
+    "id": 485,
+    "stock_name": "Gladstone Commercial Corporation",
+    "stock_symbol": "GOODO",
+    "price": "$23.57",
+    "market_cap": "$29.49M"
+  },
+  {
+    "id": 486,
+    "stock_name": "Microsemi Corporation",
+    "stock_symbol": "MSCC",
+    "price": "$958.91",
+    "market_cap": "$5.55B"
+  },
+  {
+    "id": 487,
+    "stock_name": "MSA Safety Incorporporated",
+    "stock_symbol": "MSA",
+    "price": "$711.44",
+    "market_cap": "$3.16B"
+  },
+  {
+    "id": 488,
+    "stock_name": "Maiden Holdings, Ltd.",
+    "stock_symbol": "MHNB.CL",
+    "price": "$79.67",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 489,
+    "stock_name": "Mercury General Corporation",
+    "stock_symbol": "MCY",
+    "price": "$90.10",
+    "market_cap": "$3.11B"
+  },
+  {
+    "id": 490,
+    "stock_name": "DexCom, Inc.",
+    "stock_symbol": "DXCM",
+    "price": "$519.98",
+    "market_cap": "$6.59B"
+  },
+  {
+    "id": 491,
+    "stock_name": "Ashford Hospitality Trust Inc",
+    "stock_symbol": "AHT^G",
+    "price": "$542.14",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 492,
+    "stock_name": "Capital One Financial Corporation",
+    "stock_symbol": "COF^F",
+    "price": "$114.82",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 493,
+    "stock_name": "FinTech Acquisition Corp. II",
+    "stock_symbol": "FNTE",
+    "price": "$328.28",
+    "market_cap": "$234.15M"
+  },
+  {
+    "id": 494,
+    "stock_name": "Bank of America Corporation",
+    "stock_symbol": "BAC",
+    "price": "$812.87",
+    "market_cap": "$233.17B"
+  },
+  {
+    "id": 495,
+    "stock_name": "Savara, Inc.",
+    "stock_symbol": "SVRA",
+    "price": "$737.30",
+    "market_cap": "$145.12M"
+  },
+  {
+    "id": 496,
+    "stock_name": "TELUS Corporation",
+    "stock_symbol": "TU",
+    "price": "$101.04",
+    "market_cap": "$20.42B"
+  },
+  {
+    "id": 497,
+    "stock_name": "Valmont Industries, Inc.",
+    "stock_symbol": "VMI",
+    "price": "$62.63",
+    "market_cap": "$3.4B"
+  },
+  {
+    "id": 498,
+    "stock_name": "United-Guardian, Inc.",
+    "stock_symbol": "UG",
+    "price": "$704.15",
+    "market_cap": "$70.33M"
+  },
+  {
+    "id": 499,
+    "stock_name": "Parke Bancorp, Inc.",
+    "stock_symbol": "PKBK",
+    "price": "$85.36",
+    "market_cap": "$161.78M"
+  },
+  {
+    "id": 500,
+    "stock_name": "Quinpario Acquisition Corp. 2",
+    "stock_symbol": "QPAC",
+    "price": "$892.19",
+    "market_cap": "$288.2M"
+  },
+  {
+    "id": 501,
+    "stock_name": "HRG Group, Inc.",
+    "stock_symbol": "HRG",
+    "price": "$382.12",
+    "market_cap": "$3.77B"
+  },
+  {
+    "id": 502,
+    "stock_name": "Verona Pharma plc",
+    "stock_symbol": "VRNA",
+    "price": "$350.37",
+    "market_cap": "$165.72M"
+  },
+  {
+    "id": 503,
+    "stock_name": "ANI Pharmaceuticals, Inc.",
+    "stock_symbol": "ANIP",
+    "price": "$872.07",
+    "market_cap": "$527.44M"
+  },
+  {
+    "id": 504,
+    "stock_name": "Tower International, Inc.",
+    "stock_symbol": "TOWR",
+    "price": "$743.77",
+    "market_cap": "$446.68M"
+  },
+  {
+    "id": 505,
+    "stock_name": "MSA Safety Incorporporated",
+    "stock_symbol": "MSA",
+    "price": "$777.39",
+    "market_cap": "$3.16B"
+  },
+  {
+    "id": 506,
+    "stock_name": "Cray Inc",
+    "stock_symbol": "CRAY",
+    "price": "$184.14",
+    "market_cap": "$737.25M"
+  },
+  {
+    "id": 507,
+    "stock_name": "ASML Holding N.V.",
+    "stock_symbol": "ASML",
+    "price": "$161.64",
+    "market_cap": "$55.73B"
+  },
+  {
+    "id": 508,
+    "stock_name": "Commvault Systems, Inc.",
+    "stock_symbol": "CVLT",
+    "price": "$392.96",
+    "market_cap": "$2.54B"
+  },
+  {
+    "id": 509,
+    "stock_name": "E*TRADE Financial Corporation",
+    "stock_symbol": "ETFC",
+    "price": "$465.08",
+    "market_cap": "$10.19B"
+  },
+  {
+    "id": 510,
+    "stock_name": "Tuttle Tactical Management U.S. Core ETF",
+    "stock_symbol": "TUTT",
+    "price": "$47.87",
+    "market_cap": "$54.07M"
+  },
+  {
+    "id": 511,
+    "stock_name": "CNH Industrial N.V.",
+    "stock_symbol": "CNHI",
+    "price": "$155.97",
+    "market_cap": "$15.85B"
+  },
+  {
+    "id": 512,
+    "stock_name": "Stonegate Bank",
+    "stock_symbol": "SGBK",
+    "price": "$945.61",
+    "market_cap": "$667.73M"
+  },
+  {
+    "id": 513,
+    "stock_name": "Ashford Hospitality Trust Inc",
+    "stock_symbol": "AHT^F",
+    "price": "$469.72",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 514,
+    "stock_name": "Fluidigm Corporation",
+    "stock_symbol": "FLDM",
+    "price": "$218.10",
+    "market_cap": "$107.22M"
+  },
+  {
+    "id": 515,
+    "stock_name": "SPS Commerce, Inc.",
+    "stock_symbol": "SPSC",
+    "price": "$103.35",
+    "market_cap": "$1.04B"
+  },
+  {
+    "id": 516,
+    "stock_name": "BlackRock Energy and Resources Trust",
+    "stock_symbol": "BGR",
+    "price": "$711.84",
+    "market_cap": "$389.82M"
+  },
+  {
+    "id": 517,
+    "stock_name": "America Movil, S.A.B. de C.V.",
+    "stock_symbol": "AMX",
+    "price": "$98.36",
+    "market_cap": "$52.47B"
+  },
+  {
+    "id": 518,
+    "stock_name": "Icahn Enterprises L.P.",
+    "stock_symbol": "IEP",
+    "price": "$933.40",
+    "market_cap": "$8.25B"
+  },
+  {
+    "id": 519,
+    "stock_name": "NewMarket Corporation",
+    "stock_symbol": "NEU",
+    "price": "$942.40",
+    "market_cap": "$5.53B"
+  },
+  {
+    "id": 520,
+    "stock_name": "Deere & Company",
+    "stock_symbol": "DE",
+    "price": "$453.75",
+    "market_cap": "$40.91B"
+  },
+  {
+    "id": 521,
+    "stock_name": "Calamos Global Total Return Fund",
+    "stock_symbol": "CGO",
+    "price": "$183.32",
+    "market_cap": "$111.57M"
+  },
+  {
+    "id": 522,
+    "stock_name": "Quotient Technology Inc.",
+    "stock_symbol": "QUOT",
+    "price": "$582.86",
+    "market_cap": "$1.04B"
+  },
+  {
+    "id": 523,
+    "stock_name": "Central Federal Corporation",
+    "stock_symbol": "CFBK",
+    "price": "$612.47",
+    "market_cap": "$35.67M"
+  },
+  {
+    "id": 524,
+    "stock_name": "Firsthand Technology Value Fund, Inc.",
+    "stock_symbol": "SVVC",
+    "price": "$138.59",
+    "market_cap": "$63.46M"
+  },
+  {
+    "id": 525,
+    "stock_name": "Kohl's Corporation",
+    "stock_symbol": "KSS",
+    "price": "$738.98",
+    "market_cap": "$6.37B"
+  },
+  {
+    "id": 526,
+    "stock_name": "51job, Inc.",
+    "stock_symbol": "JOBS",
+    "price": "$278.54",
+    "market_cap": "$2.67B"
+  },
+  {
+    "id": 527,
+    "stock_name": "Encore Capital Group Inc",
+    "stock_symbol": "ECPG",
+    "price": "$914.43",
+    "market_cap": "$996.04M"
+  },
+  {
+    "id": 528,
+    "stock_name": "Delphi Automotive plc",
+    "stock_symbol": "DLPH",
+    "price": "$654.65",
+    "market_cap": "$22.77B"
+  },
+  {
+    "id": 529,
+    "stock_name": "Red Lion Hotels Corporation",
+    "stock_symbol": "RLH",
+    "price": "$642.48",
+    "market_cap": "$145.96M"
+  },
+  {
+    "id": 530,
+    "stock_name": "Blackrock MuniYield Fund, Inc.",
+    "stock_symbol": "MYD",
+    "price": "$803.53",
+    "market_cap": "$703.23M"
+  },
+  {
+    "id": 531,
+    "stock_name": "SunCoke Energy Partners, L.P.",
+    "stock_symbol": "SXCP",
+    "price": "$174.91",
+    "market_cap": "$790.37M"
+  },
+  {
+    "id": 532,
+    "stock_name": "Redwood Trust, Inc.",
+    "stock_symbol": "RWT",
+    "price": "$780.92",
+    "market_cap": "$1.34B"
+  },
+  {
+    "id": 533,
+    "stock_name": "Oracle Corporation",
+    "stock_symbol": "ORCL",
+    "price": "$75.16",
+    "market_cap": "$185.53B"
+  },
+  {
+    "id": 534,
+    "stock_name": "Axovant Sciences Ltd.",
+    "stock_symbol": "AXON          ",
+    "price": "$56.01",
+    "market_cap": "$2.26B"
+  },
+  {
+    "id": 535,
+    "stock_name": "Rent-A-Center Inc.",
+    "stock_symbol": "RCII",
+    "price": "$172.65",
+    "market_cap": "$633.57M"
+  },
+  {
+    "id": 536,
+    "stock_name": "OHA Investment Corporation",
+    "stock_symbol": "OHAI",
+    "price": "$159.63",
+    "market_cap": "$24.59M"
+  },
+  {
+    "id": 537,
+    "stock_name": "Green Dot Corporation",
+    "stock_symbol": "GDOT",
+    "price": "$166.21",
+    "market_cap": "$1.97B"
+  },
+  {
+    "id": 538,
+    "stock_name": "Core Laboratories N.V.",
+    "stock_symbol": "CLB",
+    "price": "$685.37",
+    "market_cap": "$4.72B"
+  },
+  {
+    "id": 539,
+    "stock_name": "KraneShares CSI China Internet ETF",
+    "stock_symbol": "KWEB",
+    "price": "$851.20",
+    "market_cap": "$160.58M"
+  },
+  {
+    "id": 540,
+    "stock_name": "Comstock Holding Companies, Inc.",
+    "stock_symbol": "CHCI",
+    "price": "$531.81",
+    "market_cap": "$6.74M"
+  },
+  {
+    "id": 541,
+    "stock_name": "Xplore Technologies Corp",
+    "stock_symbol": "XPLR",
+    "price": "$456.59",
+    "market_cap": "$21.5M"
+  },
+  {
+    "id": 542,
+    "stock_name": "Accuray Incorporated",
+    "stock_symbol": "ARAY",
+    "price": "$831.06",
+    "market_cap": "$361.05M"
+  },
+  {
+    "id": 543,
+    "stock_name": "Summit Hotel Properties, Inc.",
+    "stock_symbol": "INN^D",
+    "price": "$281.85",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 544,
+    "stock_name": "Basic Energy Services, Inc.",
+    "stock_symbol": "BAS",
+    "price": "$842.35",
+    "market_cap": "$595.41M"
+  },
+  {
+    "id": 545,
+    "stock_name": "U.S. Bancorp",
+    "stock_symbol": "USB",
+    "price": "$858.42",
+    "market_cap": "$88.09B"
+  },
+  {
+    "id": 546,
+    "stock_name": "Tyson Foods, Inc.",
+    "stock_symbol": "TSN",
+    "price": "$623.41",
+    "market_cap": "$22.07B"
+  },
+  {
+    "id": 547,
+    "stock_name": "Baytex Energy Corp",
+    "stock_symbol": "BTE",
+    "price": "$309.77",
+    "market_cap": "$592.54M"
+  },
+  {
+    "id": 548,
+    "stock_name": "Cerus Corporation",
+    "stock_symbol": "CERS",
+    "price": "$707.93",
+    "market_cap": "$233.83M"
+  },
+  {
+    "id": 549,
+    "stock_name": "TIER REIT, Inc.",
+    "stock_symbol": "TIER",
+    "price": "$866.62",
+    "market_cap": "$837.01M"
+  },
+  {
+    "id": 550,
+    "stock_name": "Cellectar Biosciences, Inc.",
+    "stock_symbol": "CLRBW",
+    "price": "$441.86",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 551,
+    "stock_name": "iShares GNMA Bond ETF",
+    "stock_symbol": "GNMA",
+    "price": "$485.86",
+    "market_cap": "$174.89M"
+  },
+  {
+    "id": 552,
+    "stock_name": "OFG Bancorp",
+    "stock_symbol": "OFG",
+    "price": "$293.84",
+    "market_cap": "$443.87M"
+  },
+  {
+    "id": 553,
+    "stock_name": "M/I Homes, Inc.",
+    "stock_symbol": "MHO^A",
+    "price": "$747.00",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 554,
+    "stock_name": "CryoPort, Inc.",
+    "stock_symbol": "CYRX",
+    "price": "$475.90",
+    "market_cap": "$112.21M"
+  },
+  {
+    "id": 555,
+    "stock_name": "Royce Micro-Cap Trust, Inc.",
+    "stock_symbol": "RMT",
+    "price": "$556.10",
+    "market_cap": "$323.02M"
+  },
+  {
+    "id": 556,
+    "stock_name": "TESSCO Technologies Incorporated",
+    "stock_symbol": "TESS",
+    "price": "$993.06",
+    "market_cap": "$110.38M"
+  },
+  {
+    "id": 557,
+    "stock_name": "Vornado Realty Trust",
+    "stock_symbol": "VNO",
+    "price": "$200.51",
+    "market_cap": "$17.78B"
+  },
+  {
+    "id": 558,
+    "stock_name": "Federal Realty Investment Trust",
+    "stock_symbol": "FRT",
+    "price": "$308.49",
+    "market_cap": "$9.06B"
+  },
+  {
+    "id": 559,
+    "stock_name": "Sonoma Pharmaceuticals, Inc.",
+    "stock_symbol": "SNOAW",
+    "price": "$465.76",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 560,
+    "stock_name": "The ExOne Company",
+    "stock_symbol": "XONE",
+    "price": "$657.00",
+    "market_cap": "$204.83M"
+  },
+  {
+    "id": 561,
+    "stock_name": "RXi Pharmaceuticals Corporation",
+    "stock_symbol": "RXIIW",
+    "price": "$989.28",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 562,
+    "stock_name": "The Joint Corp.",
+    "stock_symbol": "JYNT",
+    "price": "$967.89",
+    "market_cap": "$48.27M"
+  },
+  {
+    "id": 563,
+    "stock_name": "The AES Corporation",
+    "stock_symbol": "AES^C.CL",
+    "price": "$834.58",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 564,
+    "stock_name": "Parkway, Inc.",
+    "stock_symbol": "PKY",
+    "price": "$545.30",
+    "market_cap": "$1.02B"
+  },
+  {
+    "id": 565,
+    "stock_name": "Alibaba Group Holding Limited",
+    "stock_symbol": "BABA",
+    "price": "$761.84",
+    "market_cap": "$341.22B"
+  },
+  {
+    "id": 566,
+    "stock_name": "M&T Bank Corporation",
+    "stock_symbol": "MTB",
+    "price": "$326.81",
+    "market_cap": "$24.88B"
+  },
+  {
+    "id": 567,
+    "stock_name": "AmeriServ Financial Inc.",
+    "stock_symbol": "ASRV",
+    "price": "$840.21",
+    "market_cap": "$76.54M"
+  },
+  {
+    "id": 568,
+    "stock_name": "On Track Innovations Ltd",
+    "stock_symbol": "OTIV",
+    "price": "$429.48",
+    "market_cap": "$51.37M"
+  },
+  {
+    "id": 569,
+    "stock_name": "Okta, Inc.",
+    "stock_symbol": "OKTA",
+    "price": "$51.56",
+    "market_cap": "$2.52B"
+  },
+  {
+    "id": 570,
+    "stock_name": "X-Links Gold Shares Covered Call ETN",
+    "stock_symbol": "GLDI",
+    "price": "$596.09",
+    "market_cap": "$126.29M"
+  },
+  {
+    "id": 571,
+    "stock_name": "Verisk Analytics, Inc.",
+    "stock_symbol": "VRSK",
+    "price": "$194.86",
+    "market_cap": "$13.75B"
+  },
+  {
+    "id": 572,
+    "stock_name": "Blackrock Municipal Bond Trust",
+    "stock_symbol": "BBK",
+    "price": "$148.60",
+    "market_cap": "$162.03M"
+  },
+  {
+    "id": 573,
+    "stock_name": "Hovnanian Enterprises Inc",
+    "stock_symbol": "HOVNP",
+    "price": "$418.94",
+    "market_cap": "$32.91M"
+  },
+  {
+    "id": 574,
+    "stock_name": "Brookfield Business Partners L.P.",
+    "stock_symbol": "BBU",
+    "price": "$366.56",
+    "market_cap": "$1.4B"
+  },
+  {
+    "id": 575,
+    "stock_name": "Gabelli NextShares Trust",
+    "stock_symbol": "FOANC",
+    "price": "$323.30",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 576,
+    "stock_name": "M III Acquisition Corp.",
+    "stock_symbol": "MIIIU",
+    "price": "$346.62",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 577,
+    "stock_name": "Watsco, Inc.",
+    "stock_symbol": "WSO.B",
+    "price": "$528.25",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 578,
+    "stock_name": "Bristol-Myers Squibb Company",
+    "stock_symbol": "BMY",
+    "price": "$93.70",
+    "market_cap": "$89.72B"
+  },
+  {
+    "id": 579,
+    "stock_name": "First Trust RBA Quality Income ETF",
+    "stock_symbol": "QINC",
+    "price": "$123.59",
+    "market_cap": "$28.13M"
+  },
+  {
+    "id": 580,
+    "stock_name": "First Financial Bankshares, Inc.",
+    "stock_symbol": "FFIN",
+    "price": "$503.44",
+    "market_cap": "$2.76B"
+  },
+  {
+    "id": 581,
+    "stock_name": "XG Technology, Inc",
+    "stock_symbol": "XGTIW",
+    "price": "$278.40",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 582,
+    "stock_name": "China Natural Resources, Inc.",
+    "stock_symbol": "CHNR",
+    "price": "$634.67",
+    "market_cap": "$51.07M"
+  },
+  {
+    "id": 583,
+    "stock_name": "Sunrun Inc.",
+    "stock_symbol": "RUN",
+    "price": "$719.90",
+    "market_cap": "$605.25M"
+  },
+  {
+    "id": 584,
+    "stock_name": "Spirit Realty Capital, Inc.",
+    "stock_symbol": "SRC",
+    "price": "$243.02",
+    "market_cap": "$3.76B"
+  },
+  {
+    "id": 585,
+    "stock_name": "Peoples Financial Corporation",
+    "stock_symbol": "PFBX",
+    "price": "$529.44",
+    "market_cap": "$66.09M"
+  },
+  {
+    "id": 586,
+    "stock_name": "Morgan Stanley",
+    "stock_symbol": "MS",
+    "price": "$579.89",
+    "market_cap": "$82.28B"
+  },
+  {
+    "id": 587,
+    "stock_name": "T2 Biosystems, Inc.",
+    "stock_symbol": "TTOO",
+    "price": "$673.10",
+    "market_cap": "$106.47M"
+  },
+  {
+    "id": 588,
+    "stock_name": "Veeco Instruments Inc.",
+    "stock_symbol": "VECO",
+    "price": "$14.04",
+    "market_cap": "$1.17B"
+  },
+  {
+    "id": 589,
+    "stock_name": "Evoke Pharma, Inc.",
+    "stock_symbol": "EVOK",
+    "price": "$228.88",
+    "market_cap": "$38.16M"
+  },
+  {
+    "id": 590,
+    "stock_name": "Oxford Immunotec Global PLC",
+    "stock_symbol": "OXFD",
+    "price": "$473.50",
+    "market_cap": "$344.13M"
+  },
+  {
+    "id": 591,
+    "stock_name": "Scorpio Bulkers Inc.",
+    "stock_symbol": "SALT",
+    "price": "$573.37",
+    "market_cap": "$478.23M"
+  },
+  {
+    "id": 592,
+    "stock_name": "Kohl's Corporation",
+    "stock_symbol": "KSS",
+    "price": "$374.04",
+    "market_cap": "$6.37B"
+  },
+  {
+    "id": 593,
+    "stock_name": "Moody's Corporation",
+    "stock_symbol": "MCO",
+    "price": "$423.29",
+    "market_cap": "$23.39B"
+  },
+  {
+    "id": 594,
+    "stock_name": "OptimumBank Holdings, Inc.",
+    "stock_symbol": "OPHC",
+    "price": "$754.89",
+    "market_cap": "$2.91M"
+  },
+  {
+    "id": 595,
+    "stock_name": "Williams Companies, Inc. (The)",
+    "stock_symbol": "WMB",
+    "price": "$461.83",
+    "market_cap": "$24.06B"
+  },
+  {
+    "id": 596,
+    "stock_name": "Stag Industrial, Inc.",
+    "stock_symbol": "STAG",
+    "price": "$4.34",
+    "market_cap": "$2.47B"
+  },
+  {
+    "id": 597,
+    "stock_name": "Zumiez Inc.",
+    "stock_symbol": "ZUMZ",
+    "price": "$861.41",
+    "market_cap": "$316.23M"
+  },
+  {
+    "id": 598,
+    "stock_name": "Emmis Communications Corporation",
+    "stock_symbol": "EMMS",
+    "price": "$123.22",
+    "market_cap": "$39.09M"
+  },
+  {
+    "id": 599,
+    "stock_name": "Eltek Ltd.",
+    "stock_symbol": "ELTK",
+    "price": "$628.37",
+    "market_cap": "$6.8M"
+  },
+  {
+    "id": 600,
+    "stock_name": "Nielsen N.V.",
+    "stock_symbol": "NLSN",
+    "price": "$555.25",
+    "market_cap": "$13.7B"
+  },
+  {
+    "id": 601,
+    "stock_name": "Hebron Technology Co., Ltd.",
+    "stock_symbol": "HEBT",
+    "price": "$688.70",
+    "market_cap": "$48.64M"
+  },
+  {
+    "id": 602,
+    "stock_name": "Shutterfly, Inc.",
+    "stock_symbol": "SFLY",
+    "price": "$734.32",
+    "market_cap": "$1.64B"
+  },
+  {
+    "id": 603,
+    "stock_name": "Nuveen North Carolina Quality Municipal Income Fd",
+    "stock_symbol": "NNC",
+    "price": "$359.67",
+    "market_cap": "$220.34M"
+  },
+  {
+    "id": 604,
+    "stock_name": "DURECT Corporation",
+    "stock_symbol": "DRRX",
+    "price": "$979.69",
+    "market_cap": "$185.98M"
+  },
+  {
+    "id": 605,
+    "stock_name": "Bank of America Corporation",
+    "stock_symbol": "BML^H",
+    "price": "$673.99",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 606,
+    "stock_name": "Terreno Realty Corporation",
+    "stock_symbol": "TRNO^A.CL",
+    "price": "$749.97",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 607,
+    "stock_name": "Encore Wire Corporation",
+    "stock_symbol": "WIRE",
+    "price": "$660.33",
+    "market_cap": "$896.34M"
+  },
+  {
+    "id": 608,
+    "stock_name": "Xencor, Inc.",
+    "stock_symbol": "XNCR",
+    "price": "$156.98",
+    "market_cap": "$934.3M"
+  },
+  {
+    "id": 609,
+    "stock_name": "John Hancock Income Securities Trust",
+    "stock_symbol": "JHS",
+    "price": "$752.22",
+    "market_cap": "$170.51M"
+  },
+  {
+    "id": 610,
+    "stock_name": "TIM Participacoes S.A.",
+    "stock_symbol": "TSU",
+    "price": "$494.70",
+    "market_cap": "$6.97B"
+  },
+  {
+    "id": 611,
+    "stock_name": "Delcath Systems, Inc.",
+    "stock_symbol": "DCTH",
+    "price": "$154.49",
+    "market_cap": "$8.33M"
+  },
+  {
+    "id": 612,
+    "stock_name": "Universal Health Services, Inc.",
+    "stock_symbol": "UHS",
+    "price": "$851.18",
+    "market_cap": "$11.13B"
+  },
+  {
+    "id": 613,
+    "stock_name": "Schweitzer-Mauduit International, Inc.",
+    "stock_symbol": "SWM",
+    "price": "$43.24",
+    "market_cap": "$1.15B"
+  },
+  {
+    "id": 614,
+    "stock_name": "Altisource Portfolio Solutions S.A.",
+    "stock_symbol": "ASPS",
+    "price": "$900.78",
+    "market_cap": "$403.3M"
+  },
+  {
+    "id": 615,
+    "stock_name": "Washington Prime Group Inc.",
+    "stock_symbol": "WPG^H",
+    "price": "$669.61",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 616,
+    "stock_name": "Vmware, Inc.",
+    "stock_symbol": "VMW",
+    "price": "$41.55",
+    "market_cap": "$35.98B"
+  },
+  {
+    "id": 617,
+    "stock_name": "aTyr Pharma, Inc.",
+    "stock_symbol": "LIFE",
+    "price": "$524.63",
+    "market_cap": "$84.51M"
+  },
+  {
+    "id": 618,
+    "stock_name": "Bank of N.T. Butterfield & Son Limited (The)",
+    "stock_symbol": "NTB",
+    "price": "$276.79",
+    "market_cap": "$1.9B"
+  },
+  {
+    "id": 619,
+    "stock_name": "Merrimack Pharmaceuticals, Inc.",
+    "stock_symbol": "MACK",
+    "price": "$173.07",
+    "market_cap": "$153.62M"
+  },
+  {
+    "id": 620,
+    "stock_name": "Discovery Communications, Inc.",
+    "stock_symbol": "DISCA",
+    "price": "$577.28",
+    "market_cap": "$10.2B"
+  },
+  {
+    "id": 621,
+    "stock_name": "ATA Inc.",
+    "stock_symbol": "ATAI",
+    "price": "$919.20",
+    "market_cap": "$106.15M"
+  },
+  {
+    "id": 622,
+    "stock_name": "Provident Financial Services, Inc",
+    "stock_symbol": "PFS",
+    "price": "$646.75",
+    "market_cap": "$1.64B"
+  },
+  {
+    "id": 623,
+    "stock_name": "Prosperity Bancshares, Inc.",
+    "stock_symbol": "PB",
+    "price": "$124.31",
+    "market_cap": "$4.59B"
+  },
+  {
+    "id": 624,
+    "stock_name": "Greenbrier Companies, Inc. (The)",
+    "stock_symbol": "GBX",
+    "price": "$412.31",
+    "market_cap": "$1.35B"
+  },
+  {
+    "id": 625,
+    "stock_name": "Raymond James Financial, Inc.",
+    "stock_symbol": "RJF",
+    "price": "$463.68",
+    "market_cap": "$11.3B"
+  },
+  {
+    "id": 626,
+    "stock_name": "First Trust Large Cap Value AlphaDEX Fund",
+    "stock_symbol": "FTA",
+    "price": "$483.08",
+    "market_cap": "$1.04B"
+  },
+  {
+    "id": 627,
+    "stock_name": "Nuveen NASDAQ 100 Dynamic Overwrite Fund",
+    "stock_symbol": "QQQX",
+    "price": "$328.95",
+    "market_cap": "$781.34M"
+  },
+  {
+    "id": 628,
+    "stock_name": "trivago N.V.",
+    "stock_symbol": "TRVG",
+    "price": "$63.20",
+    "market_cap": "$4.38B"
+  },
+  {
+    "id": 629,
+    "stock_name": "Drive Shack Inc.",
+    "stock_symbol": "DS",
+    "price": "$23.32",
+    "market_cap": "$198.52M"
+  },
+  {
+    "id": 630,
+    "stock_name": "A. Schulman, Inc.",
+    "stock_symbol": "SHLM",
+    "price": "$408.85",
+    "market_cap": "$855.12M"
+  },
+  {
+    "id": 631,
+    "stock_name": "Maiden Holdings, Ltd.",
+    "stock_symbol": "MH^A",
+    "price": "$333.75",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 632,
+    "stock_name": "Real Industry, Inc. ",
+    "stock_symbol": "RELY",
+    "price": "$783.57",
+    "market_cap": "$90.88M"
+  },
+  {
+    "id": 633,
+    "stock_name": "Maxwell Technologies, Inc.",
+    "stock_symbol": "MXWL",
+    "price": "$869.36",
+    "market_cap": "$209.5M"
+  },
+  {
+    "id": 634,
+    "stock_name": "Stifel Financial Corporation",
+    "stock_symbol": "SF",
+    "price": "$424.33",
+    "market_cap": "$3.11B"
+  },
+  {
+    "id": 635,
+    "stock_name": "Electronics for Imaging, Inc.",
+    "stock_symbol": "EFII",
+    "price": "$111.29",
+    "market_cap": "$2.3B"
+  },
+  {
+    "id": 636,
+    "stock_name": "Navios Maritime Acquisition Corporation",
+    "stock_symbol": "NNA",
+    "price": "$547.09",
+    "market_cap": "$226.45M"
+  },
+  {
+    "id": 637,
+    "stock_name": "Mexico Equity and Income Fund, Inc. (The)",
+    "stock_symbol": "MXE",
+    "price": "$554.35",
+    "market_cap": "$83.2M"
+  },
+  {
+    "id": 638,
+    "stock_name": "Ocean Power Technologies, Inc.",
+    "stock_symbol": "OPTT",
+    "price": "$531.90",
+    "market_cap": "$16.82M"
+  },
+  {
+    "id": 639,
+    "stock_name": "Sabra Healthcare REIT, Inc.",
+    "stock_symbol": "SBRA",
+    "price": "$779.22",
+    "market_cap": "$1.55B"
+  },
+  {
+    "id": 640,
+    "stock_name": "Zion Oil & Gas Inc",
+    "stock_symbol": "ZNWAA",
+    "price": "$103.14",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 641,
+    "stock_name": "LPL Financial Holdings Inc.",
+    "stock_symbol": "LPLA",
+    "price": "$565.80",
+    "market_cap": "$3.74B"
+  },
+  {
+    "id": 642,
+    "stock_name": "Century Casinos, Inc.",
+    "stock_symbol": "CNTY",
+    "price": "$578.58",
+    "market_cap": "$185.42M"
+  },
+  {
+    "id": 643,
+    "stock_name": "The First of Long Island Corporation",
+    "stock_symbol": "FLIC",
+    "price": "$511.31",
+    "market_cap": "$665.88M"
+  },
+  {
+    "id": 644,
+    "stock_name": "Envision Healthcare Corporation",
+    "stock_symbol": "EVHC^",
+    "price": "$140.57",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 645,
+    "stock_name": "Bed Bath & Beyond Inc.",
+    "stock_symbol": "BBBY",
+    "price": "$918.85",
+    "market_cap": "$5.09B"
+  },
+  {
+    "id": 646,
+    "stock_name": "Stoneridge, Inc.",
+    "stock_symbol": "SRI",
+    "price": "$249.43",
+    "market_cap": "$411.46M"
+  },
+  {
+    "id": 647,
+    "stock_name": "MakeMyTrip Limited",
+    "stock_symbol": "MMYT",
+    "price": "$486.30",
+    "market_cap": "$1.6B"
+  },
+  {
+    "id": 648,
+    "stock_name": "ImmunoGen, Inc.",
+    "stock_symbol": "IMGN",
+    "price": "$483.15",
+    "market_cap": "$409.22M"
+  },
+  {
+    "id": 649,
+    "stock_name": "Simmons First National Corporation",
+    "stock_symbol": "SFNC",
+    "price": "$733.42",
+    "market_cap": "$1.7B"
+  },
+  {
+    "id": 650,
+    "stock_name": "Magellan Midstream Partners L.P.",
+    "stock_symbol": "MMP",
+    "price": "$652.11",
+    "market_cap": "$15.92B"
+  },
+  {
+    "id": 651,
+    "stock_name": "Public Storage",
+    "stock_symbol": "PSA^Y",
+    "price": "$725.23",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 652,
+    "stock_name": "American Outdoor Brands Corporation",
+    "stock_symbol": "AOBC",
+    "price": "$596.41",
+    "market_cap": "$1.38B"
+  },
+  {
+    "id": 653,
+    "stock_name": "Alere Inc.",
+    "stock_symbol": "ALR",
+    "price": "$158.57",
+    "market_cap": "$4.39B"
+  },
+  {
+    "id": 654,
+    "stock_name": "OFG Bancorp",
+    "stock_symbol": "OFG",
+    "price": "$288.72",
+    "market_cap": "$443.87M"
+  },
+  {
+    "id": 655,
+    "stock_name": "Praxair, Inc.",
+    "stock_symbol": "PX",
+    "price": "$640.98",
+    "market_cap": "$38.81B"
+  },
+  {
+    "id": 656,
+    "stock_name": "American Homes 4 Rent",
+    "stock_symbol": "AMH^C",
+    "price": "$244.34",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 657,
+    "stock_name": "Adtalem Global Education Inc.",
+    "stock_symbol": "ATGE",
+    "price": "$565.86",
+    "market_cap": "$2.32B"
+  },
+  {
+    "id": 658,
+    "stock_name": "Art's-Way Manufacturing Co., Inc.",
+    "stock_symbol": "ARTW",
+    "price": "$823.91",
+    "market_cap": "$12.26M"
+  },
+  {
+    "id": 659,
+    "stock_name": "Goldman Sachs Group, Inc. (The)",
+    "stock_symbol": "GS^C",
+    "price": "$706.08",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 660,
+    "stock_name": "Carbonite, Inc.",
+    "stock_symbol": "CARB",
+    "price": "$961.95",
+    "market_cap": "$599.33M"
+  },
+  {
+    "id": 661,
+    "stock_name": "iKang Healthcare Group, Inc.",
+    "stock_symbol": "KANG",
+    "price": "$440.93",
+    "market_cap": "$980.68M"
+  },
+  {
+    "id": 662,
+    "stock_name": "Xenon Pharmaceuticals Inc.",
+    "stock_symbol": "XENE",
+    "price": "$477.07",
+    "market_cap": "$71.99M"
+  },
+  {
+    "id": 663,
+    "stock_name": "Nuveen Floating Rate Income Fund",
+    "stock_symbol": "JFR",
+    "price": "$932.41",
+    "market_cap": "$663.3M"
+  },
+  {
+    "id": 664,
+    "stock_name": "Alnylam Pharmaceuticals, Inc.",
+    "stock_symbol": "ALNY",
+    "price": "$569.91",
+    "market_cap": "$6.56B"
+  },
+  {
+    "id": 665,
+    "stock_name": "Equitable Financial Corp.",
+    "stock_symbol": "EQFN",
+    "price": "$666.52",
+    "market_cap": "$35.01M"
+  },
+  {
+    "id": 666,
+    "stock_name": "McEwen Mining Inc.",
+    "stock_symbol": "MUX",
+    "price": "$152.14",
+    "market_cap": "$804.63M"
+  },
+  {
+    "id": 667,
+    "stock_name": "Gridsum Holding Inc.",
+    "stock_symbol": "GSUM",
+    "price": "$199.64",
+    "market_cap": "$257.8M"
+  },
+  {
+    "id": 668,
+    "stock_name": "Ophthotech Corporation",
+    "stock_symbol": "OPHT",
+    "price": "$994.56",
+    "market_cap": "$93.93M"
+  },
+  {
+    "id": 669,
+    "stock_name": "Orexigen Therapeutics, Inc.",
+    "stock_symbol": "OREX",
+    "price": "$642.89",
+    "market_cap": "$42.49M"
+  },
+  {
+    "id": 670,
+    "stock_name": "Stag Industrial, Inc.",
+    "stock_symbol": "STAG^B",
+    "price": "$168.38",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 671,
+    "stock_name": "American Water Works",
+    "stock_symbol": "AWK",
+    "price": "$967.52",
+    "market_cap": "$14.72B"
+  },
+  {
+    "id": 672,
+    "stock_name": "Kayne Anderson Acquisition Corp.",
+    "stock_symbol": "KAAC",
+    "price": "$168.32",
+    "market_cap": "$459.39M"
+  },
+  {
+    "id": 673,
+    "stock_name": "Inpixon ",
+    "stock_symbol": "INPX",
+    "price": "$125.20",
+    "market_cap": "$3.85M"
+  },
+  {
+    "id": 674,
+    "stock_name": "Bloomin' Brands, Inc.",
+    "stock_symbol": "BLMN",
+    "price": "$654.97",
+    "market_cap": "$2.12B"
+  },
+  {
+    "id": 675,
+    "stock_name": "SMART Global Holdings, Inc.",
+    "stock_symbol": "SGH",
+    "price": "$104.64",
+    "market_cap": "$316.82M"
+  },
+  {
+    "id": 676,
+    "stock_name": "The Gabelli Healthcare & Wellness Trust",
+    "stock_symbol": "GRX",
+    "price": "$757.57",
+    "market_cap": "$208.41M"
+  },
+  {
+    "id": 677,
+    "stock_name": "American Financial Group, Inc.",
+    "stock_symbol": "AFG",
+    "price": "$687.87",
+    "market_cap": "$8.98B"
+  },
+  {
+    "id": 678,
+    "stock_name": "Vanguard Total International Bond ETF",
+    "stock_symbol": "BNDX",
+    "price": "$185.40",
+    "market_cap": "$7.54B"
+  },
+  {
+    "id": 679,
+    "stock_name": "Bank of America Corporation",
+    "stock_symbol": "BML^H",
+    "price": "$325.80",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 680,
+    "stock_name": "Mesa Laboratories, Inc.",
+    "stock_symbol": "MLAB",
+    "price": "$377.44",
+    "market_cap": "$529.59M"
+  },
+  {
+    "id": 681,
+    "stock_name": "Semiconductor  Manufacturing International Corporation",
+    "stock_symbol": "SMI",
+    "price": "$196.28",
+    "market_cap": "$5.28B"
+  },
+  {
+    "id": 682,
+    "stock_name": "China Distance Education Holdings Limited",
+    "stock_symbol": "DL",
+    "price": "$979.20",
+    "market_cap": "$311.18M"
+  },
+  {
+    "id": 683,
+    "stock_name": "Global X Social Media ETF",
+    "stock_symbol": "SOCL",
+    "price": "$265.66",
+    "market_cap": "$115.54M"
+  },
+  {
+    "id": 684,
+    "stock_name": "Micronet Enertec Technologies, Inc.",
+    "stock_symbol": "MICT",
+    "price": "$767.39",
+    "market_cap": "$6.89M"
+  },
+  {
+    "id": 685,
+    "stock_name": "YuMe, Inc.",
+    "stock_symbol": "YUME",
+    "price": "$861.32",
+    "market_cap": "$163.2M"
+  },
+  {
+    "id": 686,
+    "stock_name": "National Commerce Corporation",
+    "stock_symbol": "NCOM",
+    "price": "$464.53",
+    "market_cap": "$548.05M"
+  },
+  {
+    "id": 687,
+    "stock_name": "Goldman Sachs MLP Energy Renaissance Fund",
+    "stock_symbol": "GER",
+    "price": "$761.41",
+    "market_cap": "$549.18M"
+  },
+  {
+    "id": 688,
+    "stock_name": "Aberdeen Japan Equity Fund, Inc. ",
+    "stock_symbol": "JEQ",
+    "price": "$771.89",
+    "market_cap": "$115.12M"
+  },
+  {
+    "id": 689,
+    "stock_name": "Eaton Vance Municipal Income 2028 Term Trust",
+    "stock_symbol": "ETX           ",
+    "price": "$821.95",
+    "market_cap": "$222.28M"
+  },
+  {
+    "id": 690,
+    "stock_name": "Digital Realty Trust, Inc.",
+    "stock_symbol": "DLR^G",
+    "price": "$224.19",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 691,
+    "stock_name": "Sierra Oncology, Inc.",
+    "stock_symbol": "SRRA",
+    "price": "$634.70",
+    "market_cap": "$59.59M"
+  },
+  {
+    "id": 692,
+    "stock_name": "Radius Health, Inc.",
+    "stock_symbol": "RDUS",
+    "price": "$566.82",
+    "market_cap": "$1.77B"
+  },
+  {
+    "id": 693,
+    "stock_name": "Astrazeneca PLC",
+    "stock_symbol": "AZN",
+    "price": "$4.50",
+    "market_cap": "$87.46B"
+  },
+  {
+    "id": 694,
+    "stock_name": "Textron Inc.",
+    "stock_symbol": "TXT",
+    "price": "$506.88",
+    "market_cap": "$12.7B"
+  },
+  {
+    "id": 695,
+    "stock_name": "Nuveen NASDAQ 100 Dynamic Overwrite Fund",
+    "stock_symbol": "QQQX",
+    "price": "$793.77",
+    "market_cap": "$781.34M"
+  },
+  {
+    "id": 696,
+    "stock_name": "Weyco Group, Inc.",
+    "stock_symbol": "WEYS",
+    "price": "$109.81",
+    "market_cap": "$291.31M"
+  },
+  {
+    "id": 697,
+    "stock_name": "Renren Inc.",
+    "stock_symbol": "RENN",
+    "price": "$526.11",
+    "market_cap": "$420.27M"
+  },
+  {
+    "id": 698,
+    "stock_name": "Selecta Biosciences, Inc.",
+    "stock_symbol": "SELB",
+    "price": "$381.97",
+    "market_cap": "$330.28M"
+  },
+  {
+    "id": 699,
+    "stock_name": "Hallmark Financial Services, Inc.",
+    "stock_symbol": "HALL",
+    "price": "$978.62",
+    "market_cap": "$208.13M"
+  },
+  {
+    "id": 700,
+    "stock_name": "ZAIS Group Holdings, Inc.",
+    "stock_symbol": "ZAIS",
+    "price": "$290.97",
+    "market_cap": "$31.27M"
+  },
+  {
+    "id": 701,
+    "stock_name": "Nuveen California Municipal Value Fund 2",
+    "stock_symbol": "NCB",
+    "price": "$411.47",
+    "market_cap": "$58.06M"
+  },
+  {
+    "id": 702,
+    "stock_name": "Micronet Enertec Technologies, Inc.",
+    "stock_symbol": "MICT",
+    "price": "$605.14",
+    "market_cap": "$6.89M"
+  },
+  {
+    "id": 703,
+    "stock_name": "Argan, Inc.",
+    "stock_symbol": "AGX",
+    "price": "$115.91",
+    "market_cap": "$947.48M"
+  },
+  {
+    "id": 704,
+    "stock_name": "Aegon NV",
+    "stock_symbol": "AEB",
+    "price": "$926.44",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 705,
+    "stock_name": "Oxford Lane Capital Corp.",
+    "stock_symbol": "OXLCN",
+    "price": "$593.49",
+    "market_cap": "$28.04M"
+  },
+  {
+    "id": 706,
+    "stock_name": "CounterPath Corporation",
+    "stock_symbol": "CPAH",
+    "price": "$691.85",
+    "market_cap": "$10.76M"
+  },
+  {
+    "id": 707,
+    "stock_name": "Lazard Global Total Return and Income Fund",
+    "stock_symbol": "LGI",
+    "price": "$216.92",
+    "market_cap": "$156.37M"
+  },
+  {
+    "id": 708,
+    "stock_name": "American Financial Group, Inc.",
+    "stock_symbol": "AFGE",
+    "price": "$447.93",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 709,
+    "stock_name": "TFS Financial Corporation",
+    "stock_symbol": "TFSL",
+    "price": "$811.66",
+    "market_cap": "$4.45B"
+  },
+  {
+    "id": 710,
+    "stock_name": "Team, Inc.",
+    "stock_symbol": "TISI",
+    "price": "$54.84",
+    "market_cap": "$751.34M"
+  },
+  {
+    "id": 711,
+    "stock_name": "M III Acquisition Corp.",
+    "stock_symbol": "MIII",
+    "price": "$120.44",
+    "market_cap": "$187.3M"
+  },
+  {
+    "id": 712,
+    "stock_name": "Pangaea Logistics Solutions Ltd.",
+    "stock_symbol": "PANL",
+    "price": "$971.26",
+    "market_cap": "$99.12M"
+  },
+  {
+    "id": 713,
+    "stock_name": "Public Storage",
+    "stock_symbol": "PSA^W",
+    "price": "$725.65",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 714,
+    "stock_name": "United Continental Holdings, Inc.",
+    "stock_symbol": "UAL",
+    "price": "$115.89",
+    "market_cap": "$23.78B"
+  },
+  {
+    "id": 715,
+    "stock_name": "Delaware Investments Dividend & Income Fund, Inc.",
+    "stock_symbol": "DDF",
+    "price": "$20.17",
+    "market_cap": "$85.38M"
+  },
+  {
+    "id": 716,
+    "stock_name": "MDC Partners Inc.",
+    "stock_symbol": "MDCA",
+    "price": "$795.09",
+    "market_cap": "$436.93M"
+  },
+  {
+    "id": 717,
+    "stock_name": "Qwest Corporation",
+    "stock_symbol": "CTW",
+    "price": "$538.24",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 718,
+    "stock_name": "VictoryShares US Small Cap High Div Volatility Wtd ETF",
+    "stock_symbol": "CSB",
+    "price": "$750.94",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 719,
+    "stock_name": "Digimarc Corporation",
+    "stock_symbol": "DMRC",
+    "price": "$107.23",
+    "market_cap": "$395.82M"
+  },
+  {
+    "id": 720,
+    "stock_name": "Capital Trust, Inc.",
+    "stock_symbol": "BXMT",
+    "price": "$196.89",
+    "market_cap": "$3.04B"
+  },
+  {
+    "id": 721,
+    "stock_name": "UCP, Inc.",
+    "stock_symbol": "UCP",
+    "price": "$457.72",
+    "market_cap": "$89.13M"
+  },
+  {
+    "id": 722,
+    "stock_name": "Triumph Group, Inc.",
+    "stock_symbol": "TGI",
+    "price": "$816.61",
+    "market_cap": "$1.58B"
+  },
+  {
+    "id": 723,
+    "stock_name": "Cerulean Pharma Inc.",
+    "stock_symbol": "CERU",
+    "price": "$126.52",
+    "market_cap": "$9.89M"
+  },
+  {
+    "id": 724,
+    "stock_name": "Washington Prime Group Inc.",
+    "stock_symbol": "WPG^H",
+    "price": "$425.02",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 725,
+    "stock_name": "Anworth Mortgage Asset  Corporation",
+    "stock_symbol": "ANH",
+    "price": "$529.17",
+    "market_cap": "$600.57M"
+  },
+  {
+    "id": 726,
+    "stock_name": "ING Group, N.V.",
+    "stock_symbol": "ING",
+    "price": "$530.15",
+    "market_cap": "$65.86B"
+  },
+  {
+    "id": 727,
+    "stock_name": "The Blackstone Group L.P.",
+    "stock_symbol": "BX",
+    "price": "$33.55",
+    "market_cap": "$39.13B"
+  },
+  {
+    "id": 728,
+    "stock_name": "Cohu, Inc.",
+    "stock_symbol": "COHU",
+    "price": "$983.48",
+    "market_cap": "$474.73M"
+  },
+  {
+    "id": 729,
+    "stock_name": "Eastman Kodak Company",
+    "stock_symbol": "KODK.WS.A",
+    "price": "$776.55",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 730,
+    "stock_name": "Clearwater Paper Corporation",
+    "stock_symbol": "CLW",
+    "price": "$403.65",
+    "market_cap": "$732.83M"
+  },
+  {
+    "id": 731,
+    "stock_name": "Apollo Senior Floating Rate Fund Inc.",
+    "stock_symbol": "AFT",
+    "price": "$615.40",
+    "market_cap": "$265.68M"
+  },
+  {
+    "id": 732,
+    "stock_name": "Navigant Consulting, Inc.",
+    "stock_symbol": "NCI",
+    "price": "$617.92",
+    "market_cap": "$938.83M"
+  },
+  {
+    "id": 733,
+    "stock_name": "Eaton Vance Tax-Managed Buy-Write Income Fund",
+    "stock_symbol": "ETB",
+    "price": "$845.00",
+    "market_cap": "$404.02M"
+  },
+  {
+    "id": 734,
+    "stock_name": "Nexeo Solutions, Inc.",
+    "stock_symbol": "NXEO",
+    "price": "$26.45",
+    "market_cap": "$772.29M"
+  },
+  {
+    "id": 735,
+    "stock_name": "Patterson-UTI Energy, Inc.",
+    "stock_symbol": "PTEN",
+    "price": "$212.28",
+    "market_cap": "$4.33B"
+  },
+  {
+    "id": 736,
+    "stock_name": "WEC Energy Group, Inc.",
+    "stock_symbol": "WEC",
+    "price": "$722.66",
+    "market_cap": "$20.27B"
+  },
+  {
+    "id": 737,
+    "stock_name": "Voya Natural Resources Equity Income Fund",
+    "stock_symbol": "IRR",
+    "price": "$287.80",
+    "market_cap": "$136.26M"
+  },
+  {
+    "id": 738,
+    "stock_name": "Cancer Genetics, Inc.",
+    "stock_symbol": "CGIX",
+    "price": "$601.64",
+    "market_cap": "$72.13M"
+  },
+  {
+    "id": 739,
+    "stock_name": "iPath US Treasury 10-year Bear ETN",
+    "stock_symbol": "DTYS",
+    "price": "$307.31",
+    "market_cap": "$44.61M"
+  },
+  {
+    "id": 740,
+    "stock_name": "Cato Corporation (The)",
+    "stock_symbol": "CATO",
+    "price": "$713.22",
+    "market_cap": "$458.45M"
+  },
+  {
+    "id": 741,
+    "stock_name": "BlackRock Energy and Resources Trust",
+    "stock_symbol": "BGR",
+    "price": "$793.88",
+    "market_cap": "$389.82M"
+  },
+  {
+    "id": 742,
+    "stock_name": "CTI BioPharma Corp.",
+    "stock_symbol": "CTIC",
+    "price": "$579.50",
+    "market_cap": "$93.98M"
+  },
+  {
+    "id": 743,
+    "stock_name": "Dawson Geophysical Company",
+    "stock_symbol": "DWSN",
+    "price": "$9.12",
+    "market_cap": "$88.03M"
+  },
+  {
+    "id": 744,
+    "stock_name": "SINOPEC Shangai Petrochemical Company, Ltd.",
+    "stock_symbol": "SHI",
+    "price": "$930.58",
+    "market_cap": "$5.65B"
+  },
+  {
+    "id": 745,
+    "stock_name": "Simulations Plus, Inc.",
+    "stock_symbol": "SLP",
+    "price": "$638.89",
+    "market_cap": "$206.03M"
+  },
+  {
+    "id": 746,
+    "stock_name": "Petroquest Energy Inc",
+    "stock_symbol": "PQ",
+    "price": "$511.77",
+    "market_cap": "$46.9M"
+  },
+  {
+    "id": 747,
+    "stock_name": "Navios Maritime Acquisition Corporation",
+    "stock_symbol": "NNA",
+    "price": "$345.83",
+    "market_cap": "$226.45M"
+  },
+  {
+    "id": 748,
+    "stock_name": "Eaton Vance Floating Rate Income Trust",
+    "stock_symbol": "EFT",
+    "price": "$994.94",
+    "market_cap": "$605.93M"
+  },
+  {
+    "id": 749,
+    "stock_name": "Mid Penn Bancorp",
+    "stock_symbol": "MPB",
+    "price": "$897.81",
+    "market_cap": "$114.75M"
+  },
+  {
+    "id": 750,
+    "stock_name": "Intercontinental Hotels Group",
+    "stock_symbol": "IHG",
+    "price": "$248.10",
+    "market_cap": "$10.31B"
+  },
+  {
+    "id": 751,
+    "stock_name": "AGNC Investment Corp.",
+    "stock_symbol": "AGNCB",
+    "price": "$884.92",
+    "market_cap": "$9.12B"
+  },
+  {
+    "id": 752,
+    "stock_name": "Electro Scientific Industries, Inc.",
+    "stock_symbol": "ESIO",
+    "price": "$476.43",
+    "market_cap": "$269.2M"
+  },
+  {
+    "id": 753,
+    "stock_name": "First Trust Dorsey Wright Focus 5 ETF",
+    "stock_symbol": "FV",
+    "price": "$287.48",
+    "market_cap": "$2.46B"
+  },
+  {
+    "id": 754,
+    "stock_name": "Webster Financial Corporation",
+    "stock_symbol": "WBS^E",
+    "price": "$144.55",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 755,
+    "stock_name": "BlackRock California Municipal Income Trust",
+    "stock_symbol": "BFZ",
+    "price": "$922.65",
+    "market_cap": "$461.95M"
+  },
+  {
+    "id": 756,
+    "stock_name": "Trans World Entertainment Corp.",
+    "stock_symbol": "TWMC",
+    "price": "$229.77",
+    "market_cap": "$59.59M"
+  },
+  {
+    "id": 757,
+    "stock_name": "Heritage Insurance Holdings, Inc.",
+    "stock_symbol": "HRTG",
+    "price": "$71.04",
+    "market_cap": "$389.62M"
+  },
+  {
+    "id": 758,
+    "stock_name": "Aspen Insurance Holdings Limited",
+    "stock_symbol": "AHL^B.CL",
+    "price": "$856.64",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 759,
+    "stock_name": "Global X NASDAQ China Technology ETF",
+    "stock_symbol": "QQQC",
+    "price": "$156.78",
+    "market_cap": "$19.76M"
+  },
+  {
+    "id": 760,
+    "stock_name": "John Hancock Income Securities Trust",
+    "stock_symbol": "JHS",
+    "price": "$31.52",
+    "market_cap": "$170.51M"
+  },
+  {
+    "id": 761,
+    "stock_name": "Pinnacle West Capital Corporation",
+    "stock_symbol": "PNW",
+    "price": "$339.34",
+    "market_cap": "$9.92B"
+  },
+  {
+    "id": 762,
+    "stock_name": "Chipotle Mexican Grill, Inc.",
+    "stock_symbol": "CMG",
+    "price": "$199.39",
+    "market_cap": "$12.93B"
+  },
+  {
+    "id": 763,
+    "stock_name": "FS Investment Corporation",
+    "stock_symbol": "FSIC",
+    "price": "$261.29",
+    "market_cap": "$2.28B"
+  },
+  {
+    "id": 764,
+    "stock_name": "BLDRS Asia 50 ADR Index Fund",
+    "stock_symbol": "ADRA",
+    "price": "$719.93",
+    "market_cap": "$21.32M"
+  },
+  {
+    "id": 765,
+    "stock_name": "ARMOUR Residential REIT, Inc.",
+    "stock_symbol": "ARR",
+    "price": "$616.49",
+    "market_cap": "$1B"
+  },
+  {
+    "id": 766,
+    "stock_name": "Lannett Co Inc",
+    "stock_symbol": "LCI",
+    "price": "$274.98",
+    "market_cap": "$688.77M"
+  },
+  {
+    "id": 767,
+    "stock_name": "ABB Ltd",
+    "stock_symbol": "ABB",
+    "price": "$180.09",
+    "market_cap": "$54.37B"
+  },
+  {
+    "id": 768,
+    "stock_name": "ArQule, Inc.",
+    "stock_symbol": "ARQL",
+    "price": "$342.69",
+    "market_cap": "$79.68M"
+  },
+  {
+    "id": 769,
+    "stock_name": "Kindred Healthcare, Inc.",
+    "stock_symbol": "KND",
+    "price": "$106.87",
+    "market_cap": "$907.72M"
+  },
+  {
+    "id": 770,
+    "stock_name": "Nuvectra Corporation",
+    "stock_symbol": "NVTR",
+    "price": "$439.48",
+    "market_cap": "$132.49M"
+  },
+  {
+    "id": 771,
+    "stock_name": "Rayonier Advanced Materials Inc.",
+    "stock_symbol": "RYAM^A",
+    "price": "$556.60",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 772,
+    "stock_name": "Xenetic Biosciences, Inc.",
+    "stock_symbol": "XBIO",
+    "price": "$43.35",
+    "market_cap": "$22.67M"
+  },
+  {
+    "id": 773,
+    "stock_name": "Kilroy Realty Corporation",
+    "stock_symbol": "KRC^H",
+    "price": "$80.22",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 774,
+    "stock_name": "Paragon Commercial Corporation",
+    "stock_symbol": "PBNC",
+    "price": "$511.75",
+    "market_cap": "$293.53M"
+  },
+  {
+    "id": 775,
+    "stock_name": "pdvWireless, Inc.",
+    "stock_symbol": "PDVW",
+    "price": "$642.70",
+    "market_cap": "$335.5M"
+  },
+  {
+    "id": 776,
+    "stock_name": "On Track Innovations Ltd",
+    "stock_symbol": "OTIV",
+    "price": "$281.52",
+    "market_cap": "$51.37M"
+  },
+  {
+    "id": 777,
+    "stock_name": "Geron Corporation",
+    "stock_symbol": "GERN",
+    "price": "$283.14",
+    "market_cap": "$420.22M"
+  },
+  {
+    "id": 778,
+    "stock_name": "Second Sight Medical Products, Inc.",
+    "stock_symbol": "EYES",
+    "price": "$174.71",
+    "market_cap": "$62M"
+  },
+  {
+    "id": 779,
+    "stock_name": "Invesco High Income 2023 Target Term Fund",
+    "stock_symbol": "IHIT",
+    "price": "$547.43",
+    "market_cap": "$238.94M"
+  },
+  {
+    "id": 780,
+    "stock_name": "Virtus Global Dividend & Income Fund Inc.",
+    "stock_symbol": "ZTR",
+    "price": "$398.45",
+    "market_cap": "$320.21M"
+  },
+  {
+    "id": 781,
+    "stock_name": "GlaxoSmithKline PLC",
+    "stock_symbol": "GSK",
+    "price": "$686.73",
+    "market_cap": "$107.75B"
+  },
+  {
+    "id": 782,
+    "stock_name": "Obalon Therapeutics, Inc.",
+    "stock_symbol": "OBLN",
+    "price": "$530.96",
+    "market_cap": "$184.04M"
+  },
+  {
+    "id": 783,
+    "stock_name": "Bridgeline Digital, Inc.",
+    "stock_symbol": "BLIN          ",
+    "price": "$599.47",
+    "market_cap": "$12.16M"
+  },
+  {
+    "id": 784,
+    "stock_name": "Atlantica Yield plc",
+    "stock_symbol": "ABY",
+    "price": "$932.03",
+    "market_cap": "$2.05B"
+  },
+  {
+    "id": 785,
+    "stock_name": "Red Hat, Inc.",
+    "stock_symbol": "RHT",
+    "price": "$415.32",
+    "market_cap": "$15.62B"
+  },
+  {
+    "id": 786,
+    "stock_name": "BBVA Banco Frances S.A.",
+    "stock_symbol": "BFR",
+    "price": "$966.50",
+    "market_cap": "$3.47B"
+  },
+  {
+    "id": 787,
+    "stock_name": "Cadiz, Inc.",
+    "stock_symbol": "CDZI",
+    "price": "$738.47",
+    "market_cap": "$299.37M"
+  },
+  {
+    "id": 788,
+    "stock_name": "Semtech Corporation",
+    "stock_symbol": "SMTC",
+    "price": "$299.22",
+    "market_cap": "$2.35B"
+  },
+  {
+    "id": 789,
+    "stock_name": "Hawthorn Bancshares, Inc.",
+    "stock_symbol": "HWBK",
+    "price": "$207.05",
+    "market_cap": "$116.77M"
+  },
+  {
+    "id": 790,
+    "stock_name": "Euronet Worldwide, Inc.",
+    "stock_symbol": "EEFT",
+    "price": "$953.45",
+    "market_cap": "$4.59B"
+  },
+  {
+    "id": 791,
+    "stock_name": "Neff Corporation",
+    "stock_symbol": "NEFF",
+    "price": "$360.25",
+    "market_cap": "$563.71M"
+  },
+  {
+    "id": 792,
+    "stock_name": "Crawford & Company",
+    "stock_symbol": "CRD.B",
+    "price": "$614.72",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 793,
+    "stock_name": "Graco Inc.",
+    "stock_symbol": "GGG",
+    "price": "$40.03",
+    "market_cap": "$6.28B"
+  },
+  {
+    "id": 794,
+    "stock_name": "Blackrock MuniHoldings Quality Fund II, Inc.",
+    "stock_symbol": "MUE",
+    "price": "$378.73",
+    "market_cap": "$309.13M"
+  },
+  {
+    "id": 795,
+    "stock_name": "Partner Communications Company Ltd.",
+    "stock_symbol": "PTNR",
+    "price": "$327.64",
+    "market_cap": "$828.02M"
+  },
+  {
+    "id": 796,
+    "stock_name": "Archer-Daniels-Midland Company",
+    "stock_symbol": "ADM",
+    "price": "$912.42",
+    "market_cap": "$24.19B"
+  },
+  {
+    "id": 797,
+    "stock_name": "GDS Holdings Limited",
+    "stock_symbol": "GDS",
+    "price": "$858.27",
+    "market_cap": "$788.51M"
+  },
+  {
+    "id": 798,
+    "stock_name": "CoreCivic, Inc.",
+    "stock_symbol": "CXW",
+    "price": "$605.29",
+    "market_cap": "$3.31B"
+  },
+  {
+    "id": 799,
+    "stock_name": "Sandy Spring Bancorp, Inc.",
+    "stock_symbol": "SASR",
+    "price": "$807.94",
+    "market_cap": "$970.14M"
+  },
+  {
+    "id": 800,
+    "stock_name": "Abbott Laboratories",
+    "stock_symbol": "ABT",
+    "price": "$421.51",
+    "market_cap": "$83.66B"
+  },
+  {
+    "id": 801,
+    "stock_name": "Wyndham Worldwide Corp",
+    "stock_symbol": "WYN",
+    "price": "$468.30",
+    "market_cap": "$10.58B"
+  },
+  {
+    "id": 802,
+    "stock_name": "Wolverine World Wide, Inc.",
+    "stock_symbol": "WWW",
+    "price": "$599.85",
+    "market_cap": "$2.57B"
+  },
+  {
+    "id": 803,
+    "stock_name": "Kaman Corporation",
+    "stock_symbol": "KAMN",
+    "price": "$723.26",
+    "market_cap": "$1.38B"
+  },
+  {
+    "id": 804,
+    "stock_name": "GAIN Capital Holdings, Inc.",
+    "stock_symbol": "GCAP",
+    "price": "$262.34",
+    "market_cap": "$280.36M"
+  },
+  {
+    "id": 805,
+    "stock_name": "Cott Corporation",
+    "stock_symbol": "COT",
+    "price": "$667.04",
+    "market_cap": "$1.97B"
+  },
+  {
+    "id": 806,
+    "stock_name": "Dave & Buster's Entertainment, Inc.",
+    "stock_symbol": "PLAY",
+    "price": "$502.20",
+    "market_cap": "$2.84B"
+  },
+  {
+    "id": 807,
+    "stock_name": "Albany International Corporation",
+    "stock_symbol": "AIN",
+    "price": "$579.27",
+    "market_cap": "$1.68B"
+  },
+  {
+    "id": 808,
+    "stock_name": "Sportsman's Warehouse Holdings, Inc.",
+    "stock_symbol": "SPWH",
+    "price": "$848.07",
+    "market_cap": "$240.71M"
+  },
+  {
+    "id": 809,
+    "stock_name": "Rio Tinto Plc",
+    "stock_symbol": "RIO",
+    "price": "$871.14",
+    "market_cap": "$71.08B"
+  },
+  {
+    "id": 810,
+    "stock_name": "Bellicum Pharmaceuticals, Inc.",
+    "stock_symbol": "BLCM",
+    "price": "$953.87",
+    "market_cap": "$375.06M"
+  },
+  {
+    "id": 811,
+    "stock_name": "Pennsylvania Real Estate Investment Trust",
+    "stock_symbol": "PEI",
+    "price": "$79.61",
+    "market_cap": "$785.28M"
+  },
+  {
+    "id": 812,
+    "stock_name": "Quanex Building Products Corporation",
+    "stock_symbol": "NX",
+    "price": "$485.81",
+    "market_cap": "$733.65M"
+  },
+  {
+    "id": 813,
+    "stock_name": "Dynegy Inc.",
+    "stock_symbol": "DYNC",
+    "price": "$486.37",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 814,
+    "stock_name": "American Railcar Industries, Inc.",
+    "stock_symbol": "ARII",
+    "price": "$124.84",
+    "market_cap": "$695.42M"
+  },
+  {
+    "id": 815,
+    "stock_name": "BeyondSpring, Inc.",
+    "stock_symbol": "BYSI",
+    "price": "$196.13",
+    "market_cap": "$835.65M"
+  },
+  {
+    "id": 816,
+    "stock_name": "Provident Bancorp, Inc.",
+    "stock_symbol": "PVBC",
+    "price": "$124.75",
+    "market_cap": "$231.87M"
+  },
+  {
+    "id": 817,
+    "stock_name": "E.I. du Pont de Nemours and Company",
+    "stock_symbol": "DD",
+    "price": "$806.24",
+    "market_cap": "$71.5B"
+  },
+  {
+    "id": 818,
+    "stock_name": "Fastenal Company",
+    "stock_symbol": "FAST",
+    "price": "$233.18",
+    "market_cap": "$12.84B"
+  },
+  {
+    "id": 819,
+    "stock_name": "HomeTown Bankshares Corporation",
+    "stock_symbol": "HMTA",
+    "price": "$328.05",
+    "market_cap": "$60.41M"
+  },
+  {
+    "id": 820,
+    "stock_name": "Wilhelmina International, Inc.",
+    "stock_symbol": "WHLM",
+    "price": "$450.30",
+    "market_cap": "$38.75M"
+  },
+  {
+    "id": 821,
+    "stock_name": "RSP Permian, Inc.",
+    "stock_symbol": "RSPP",
+    "price": "$539.47",
+    "market_cap": "$4.84B"
+  },
+  {
+    "id": 822,
+    "stock_name": "Calgon Carbon Corporation",
+    "stock_symbol": "CCC",
+    "price": "$770.51",
+    "market_cap": "$748.61M"
+  },
+  {
+    "id": 823,
+    "stock_name": "Transcontinental Realty Investors, Inc.",
+    "stock_symbol": "TCI",
+    "price": "$594.29",
+    "market_cap": "$230.24M"
+  },
+  {
+    "id": 824,
+    "stock_name": "Adams Diversified Equity Fund, Inc.",
+    "stock_symbol": "ADX",
+    "price": "$385.63",
+    "market_cap": "$1.42B"
+  },
+  {
+    "id": 825,
+    "stock_name": "Oi S.A.",
+    "stock_symbol": "OIBR.C",
+    "price": "$608.89",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 826,
+    "stock_name": "Ventas, Inc.",
+    "stock_symbol": "VTR",
+    "price": "$243.78",
+    "market_cap": "$24.67B"
+  },
+  {
+    "id": 827,
+    "stock_name": "Transcat, Inc.",
+    "stock_symbol": "TRNS",
+    "price": "$977.12",
+    "market_cap": "$84.17M"
+  },
+  {
+    "id": 828,
+    "stock_name": "NewJersey Resources Corporation",
+    "stock_symbol": "NJR",
+    "price": "$400.89",
+    "market_cap": "$3.72B"
+  },
+  {
+    "id": 829,
+    "stock_name": "Sigma Designs, Inc.",
+    "stock_symbol": "SIGM",
+    "price": "$217.03",
+    "market_cap": "$221.54M"
+  },
+  {
+    "id": 830,
+    "stock_name": "ViewRay, Inc.",
+    "stock_symbol": "VRAY",
+    "price": "$247.86",
+    "market_cap": "$370.12M"
+  },
+  {
+    "id": 831,
+    "stock_name": "Commercial Vehicle Group, Inc.",
+    "stock_symbol": "CVGI",
+    "price": "$228.88",
+    "market_cap": "$235.35M"
+  },
+  {
+    "id": 832,
+    "stock_name": "Qiagen N.V.",
+    "stock_symbol": "QGEN",
+    "price": "$311.79",
+    "market_cap": "$7.72B"
+  },
+  {
+    "id": 833,
+    "stock_name": "PowerShares DWA Utilities Momentum Portfolio",
+    "stock_symbol": "PUI",
+    "price": "$614.34",
+    "market_cap": "$87.38M"
+  },
+  {
+    "id": 834,
+    "stock_name": "Ares Capital Corporation",
+    "stock_symbol": "AFC",
+    "price": "$704.34",
+    "market_cap": "$206.36M"
+  },
+  {
+    "id": 835,
+    "stock_name": "MUELLER WATER PRODUCTS",
+    "stock_symbol": "MWA",
+    "price": "$767.40",
+    "market_cap": "$1.83B"
+  },
+  {
+    "id": 836,
+    "stock_name": "AMN Healthcare Services Inc",
+    "stock_symbol": "AMN",
+    "price": "$935.06",
+    "market_cap": "$1.73B"
+  },
+  {
+    "id": 837,
+    "stock_name": "Alpine Total Dynamic Dividend Fund",
+    "stock_symbol": "AOD",
+    "price": "$306.34",
+    "market_cap": "$943.59M"
+  },
+  {
+    "id": 838,
+    "stock_name": "ING Group, N.V.",
+    "stock_symbol": "ISP",
+    "price": "$778.44",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 839,
+    "stock_name": "Tsakos Energy Navigation Ltd",
+    "stock_symbol": "TNP^B",
+    "price": "$962.62",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 840,
+    "stock_name": "Fortive Corporation",
+    "stock_symbol": "FTV",
+    "price": "$609.56",
+    "market_cap": "$22.2B"
+  },
+  {
+    "id": 841,
+    "stock_name": "Blackrock Core Bond Trust",
+    "stock_symbol": "BHK",
+    "price": "$781.99",
+    "market_cap": "$741.61M"
+  },
+  {
+    "id": 842,
+    "stock_name": "Lexicon Pharmaceuticals, Inc.",
+    "stock_symbol": "LXRX",
+    "price": "$858.44",
+    "market_cap": "$1.77B"
+  },
+  {
+    "id": 843,
+    "stock_name": "CF Corporation",
+    "stock_symbol": "CFCO",
+    "price": "$908.41",
+    "market_cap": "$966M"
+  },
+  {
+    "id": 844,
+    "stock_name": "Core Laboratories N.V.",
+    "stock_symbol": "CLB",
+    "price": "$958.68",
+    "market_cap": "$4.72B"
+  },
+  {
+    "id": 845,
+    "stock_name": "New York Times Company (The)",
+    "stock_symbol": "NYT",
+    "price": "$866.42",
+    "market_cap": "$2.86B"
+  },
+  {
+    "id": 846,
+    "stock_name": "Tsakos Energy Navigation Ltd",
+    "stock_symbol": "TNP^D",
+    "price": "$70.51",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 847,
+    "stock_name": "McDermott International, Inc.",
+    "stock_symbol": "MDR",
+    "price": "$354.71",
+    "market_cap": "$1.78B"
+  },
+  {
+    "id": 848,
+    "stock_name": "Atmos Energy Corporation",
+    "stock_symbol": "ATO",
+    "price": "$339.73",
+    "market_cap": "$9.01B"
+  },
+  {
+    "id": 849,
+    "stock_name": "PowerShares DWA Utilities Momentum Portfolio",
+    "stock_symbol": "PUI",
+    "price": "$948.89",
+    "market_cap": "$87.38M"
+  },
+  {
+    "id": 850,
+    "stock_name": "Net 1 UEPS Technologies, Inc.",
+    "stock_symbol": "UEPS",
+    "price": "$583.88",
+    "market_cap": "$556.9M"
+  },
+  {
+    "id": 851,
+    "stock_name": "Seaspan Corporation",
+    "stock_symbol": "SSW",
+    "price": "$365.14",
+    "market_cap": "$649.92M"
+  },
+  {
+    "id": 852,
+    "stock_name": "Escalade, Incorporated",
+    "stock_symbol": "ESCA",
+    "price": "$561.43",
+    "market_cap": "$182.92M"
+  },
+  {
+    "id": 853,
+    "stock_name": "Zillow Group, Inc.",
+    "stock_symbol": "ZG",
+    "price": "$260.50",
+    "market_cap": "$8.39B"
+  },
+  {
+    "id": 854,
+    "stock_name": "Synergy Pharmaceuticals, Inc.",
+    "stock_symbol": "SGYP",
+    "price": "$369.37",
+    "market_cap": "$915.55M"
+  },
+  {
+    "id": 855,
+    "stock_name": "The KEYW Holding Corporation",
+    "stock_symbol": "KEYW",
+    "price": "$622.07",
+    "market_cap": "$447.05M"
+  },
+  {
+    "id": 856,
+    "stock_name": "CEVA, Inc.",
+    "stock_symbol": "CEVA",
+    "price": "$851.15",
+    "market_cap": "$979.59M"
+  },
+  {
+    "id": 857,
+    "stock_name": "Advance Auto Parts Inc",
+    "stock_symbol": "AAP",
+    "price": "$246.62",
+    "market_cap": "$9.61B"
+  },
+  {
+    "id": 858,
+    "stock_name": "Wix.com Ltd.",
+    "stock_symbol": "WIX",
+    "price": "$498.17",
+    "market_cap": "$3.11B"
+  },
+  {
+    "id": 859,
+    "stock_name": "Education Realty Trust Inc.",
+    "stock_symbol": "EDR",
+    "price": "$824.77",
+    "market_cap": "$2.88B"
+  },
+  {
+    "id": 860,
+    "stock_name": "Gabelli Utility Trust (The)",
+    "stock_symbol": "GUT^C",
+    "price": "$332.40",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 861,
+    "stock_name": "DAQO New Energy Corp.",
+    "stock_symbol": "DQ",
+    "price": "$873.61",
+    "market_cap": "$208.28M"
+  },
+  {
+    "id": 862,
+    "stock_name": "Net Element, Inc.",
+    "stock_symbol": "NETE",
+    "price": "$365.76",
+    "market_cap": "$11.28M"
+  },
+  {
+    "id": 863,
+    "stock_name": "Barrick Gold Corporation",
+    "stock_symbol": "ABX",
+    "price": "$894.59",
+    "market_cap": "$18.29B"
+  },
+  {
+    "id": 864,
+    "stock_name": "Buenaventura Mining Company Inc.",
+    "stock_symbol": "BVN",
+    "price": "$678.19",
+    "market_cap": "$2.85B"
+  },
+  {
+    "id": 865,
+    "stock_name": "Pure Storage, Inc. ",
+    "stock_symbol": "PSTG",
+    "price": "$907.69",
+    "market_cap": "$2.77B"
+  },
+  {
+    "id": 866,
+    "stock_name": "TravelCenters of America LLC",
+    "stock_symbol": "TANNZ",
+    "price": "$644.27",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 867,
+    "stock_name": "Extreme Networks, Inc.",
+    "stock_symbol": "EXTR",
+    "price": "$868.74",
+    "market_cap": "$1.06B"
+  },
+  {
+    "id": 868,
+    "stock_name": "Eaton Vance Short Diversified Income Fund",
+    "stock_symbol": "EVG",
+    "price": "$219.34",
+    "market_cap": "$252.83M"
+  },
+  {
+    "id": 869,
+    "stock_name": "Sotherly Hotels Inc.",
+    "stock_symbol": "SOHO",
+    "price": "$709.32",
+    "market_cap": "$91.07M"
+  },
+  {
+    "id": 870,
+    "stock_name": "State Street Corporation",
+    "stock_symbol": "STT^E",
+    "price": "$448.15",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 871,
+    "stock_name": "TriState Capital Holdings, Inc.",
+    "stock_symbol": "TSC",
+    "price": "$85.01",
+    "market_cap": "$702.5M"
+  },
+  {
+    "id": 872,
+    "stock_name": "American Homes 4 Rent",
+    "stock_symbol": "AMH^E",
+    "price": "$224.54",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 873,
+    "stock_name": "SPI Energy Co., Ltd.",
+    "stock_symbol": "SPI",
+    "price": "$535.84",
+    "market_cap": "$50.64M"
+  },
+  {
+    "id": 874,
+    "stock_name": "Diamond Hill Investment Group, Inc.",
+    "stock_symbol": "DHIL",
+    "price": "$73.91",
+    "market_cap": "$701.48M"
+  },
+  {
+    "id": 875,
+    "stock_name": "Codorus Valley Bancorp, Inc",
+    "stock_symbol": "CVLY",
+    "price": "$500.28",
+    "market_cap": "$225.47M"
+  },
+  {
+    "id": 876,
+    "stock_name": "StarTek, Inc.",
+    "stock_symbol": "SRT",
+    "price": "$624.80",
+    "market_cap": "$178.38M"
+  },
+  {
+    "id": 877,
+    "stock_name": "Luxottica Group, S.p.A.",
+    "stock_symbol": "LUX",
+    "price": "$595.20",
+    "market_cap": "$29.05B"
+  },
+  {
+    "id": 878,
+    "stock_name": "Community Trust Bancorp, Inc.",
+    "stock_symbol": "CTBI",
+    "price": "$782.78",
+    "market_cap": "$780.79M"
+  },
+  {
+    "id": 879,
+    "stock_name": "First Trust South Korea AlphaDEX Fund",
+    "stock_symbol": "FKO",
+    "price": "$164.55",
+    "market_cap": "$5.41M"
+  },
+  {
+    "id": 880,
+    "stock_name": "OncoGenex Pharmaceuticals Inc.",
+    "stock_symbol": "OGXI",
+    "price": "$620.56",
+    "market_cap": "$10.46M"
+  },
+  {
+    "id": 881,
+    "stock_name": "Ralph Lauren Corporation",
+    "stock_symbol": "RL",
+    "price": "$186.27",
+    "market_cap": "$5.84B"
+  },
+  {
+    "id": 882,
+    "stock_name": "Affimed N.V.",
+    "stock_symbol": "AFMD",
+    "price": "$299.71",
+    "market_cap": "$87.88M"
+  },
+  {
+    "id": 883,
+    "stock_name": "Liquidity Services, Inc.",
+    "stock_symbol": "LQDT",
+    "price": "$14.51",
+    "market_cap": "$201.51M"
+  },
+  {
+    "id": 884,
+    "stock_name": "Ikonics Corporation",
+    "stock_symbol": "IKNX",
+    "price": "$943.20",
+    "market_cap": "$16.39M"
+  },
+  {
+    "id": 885,
+    "stock_name": "Quinpario Acquisition Corp. 2",
+    "stock_symbol": "QPAC",
+    "price": "$724.58",
+    "market_cap": "$288.2M"
+  },
+  {
+    "id": 886,
+    "stock_name": "Navios Maritime Holdings Inc.",
+    "stock_symbol": "NM",
+    "price": "$867.46",
+    "market_cap": "$133.53M"
+  },
+  {
+    "id": 887,
+    "stock_name": "Customers Bancorp, Inc",
+    "stock_symbol": "CUBI^D",
+    "price": "$652.19",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 888,
+    "stock_name": "Gabelli Equity Trust, Inc. (The)",
+    "stock_symbol": "GAB^H",
+    "price": "$262.54",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 889,
+    "stock_name": "Fibrocell Science Inc",
+    "stock_symbol": "FCSC",
+    "price": "$693.22",
+    "market_cap": "$45.41M"
+  },
+  {
+    "id": 890,
+    "stock_name": "Genesco Inc.",
+    "stock_symbol": "GCO",
+    "price": "$396.34",
+    "market_cap": "$677.94M"
+  },
+  {
+    "id": 891,
+    "stock_name": "Canada Goose Holdings Inc.",
+    "stock_symbol": "GOOS",
+    "price": "$337.62",
+    "market_cap": "$475.23M"
+  },
+  {
+    "id": 892,
+    "stock_name": "Dycom Industries, Inc.",
+    "stock_symbol": "DY",
+    "price": "$756.93",
+    "market_cap": "$2.77B"
+  },
+  {
+    "id": 893,
+    "stock_name": "New Germany Fund, Inc. (The)",
+    "stock_symbol": "GF",
+    "price": "$399.34",
+    "market_cap": "$262.72M"
+  },
+  {
+    "id": 894,
+    "stock_name": "M&T Bank Corporation",
+    "stock_symbol": "MTB.WS",
+    "price": "$996.72",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 895,
+    "stock_name": "Cypress Semiconductor Corporation",
+    "stock_symbol": "CY",
+    "price": "$379.66",
+    "market_cap": "$4.33B"
+  },
+  {
+    "id": 896,
+    "stock_name": "Key Technology, Inc.",
+    "stock_symbol": "KTEC",
+    "price": "$217.10",
+    "market_cap": "$87.57M"
+  },
+  {
+    "id": 897,
+    "stock_name": "FTI Consulting, Inc.",
+    "stock_symbol": "FCN",
+    "price": "$771.80",
+    "market_cap": "$1.34B"
+  },
+  {
+    "id": 898,
+    "stock_name": "Franklin Universal Trust",
+    "stock_symbol": "FT",
+    "price": "$564.46",
+    "market_cap": "$184.47M"
+  },
+  {
+    "id": 899,
+    "stock_name": "Preformed Line Products Company",
+    "stock_symbol": "PLPC",
+    "price": "$523.94",
+    "market_cap": "$241.57M"
+  },
+  {
+    "id": 900,
+    "stock_name": "NetApp, Inc.",
+    "stock_symbol": "NTAP",
+    "price": "$117.82",
+    "market_cap": "$10.29B"
+  },
+  {
+    "id": 901,
+    "stock_name": "Mellanox Technologies, Ltd.",
+    "stock_symbol": "MLNX",
+    "price": "$875.28",
+    "market_cap": "$2.16B"
+  },
+  {
+    "id": 902,
+    "stock_name": "ClearBridge All Cap Growth ETF",
+    "stock_symbol": "CACG",
+    "price": "$623.43",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 903,
+    "stock_name": "Smith (A.O.) Corporation",
+    "stock_symbol": "AOS",
+    "price": "$834.88",
+    "market_cap": "$9.82B"
+  },
+  {
+    "id": 904,
+    "stock_name": "P.A.M. Transportation Services, Inc.",
+    "stock_symbol": "PTSI",
+    "price": "$923.47",
+    "market_cap": "$129.34M"
+  },
+  {
+    "id": 905,
+    "stock_name": "EOG Resources, Inc.",
+    "stock_symbol": "EOG",
+    "price": "$186.35",
+    "market_cap": "$51.1B"
+  },
+  {
+    "id": 906,
+    "stock_name": "First Trust NASDAQ-100 Equal Weighted Index Fund",
+    "stock_symbol": "QQEW",
+    "price": "$141.15",
+    "market_cap": "$556.3M"
+  },
+  {
+    "id": 907,
+    "stock_name": "iShares MSCI China ETF",
+    "stock_symbol": "MCHI",
+    "price": "$42.64",
+    "market_cap": "$2.43B"
+  },
+  {
+    "id": 908,
+    "stock_name": "KCAP Financial, Inc.",
+    "stock_symbol": "KCAP",
+    "price": "$402.95",
+    "market_cap": "$128.8M"
+  },
+  {
+    "id": 909,
+    "stock_name": "Social Reality, Inc.",
+    "stock_symbol": "SRAX",
+    "price": "$399.32",
+    "market_cap": "$10.83M"
+  },
+  {
+    "id": 910,
+    "stock_name": "Vanguard Mortgage-Backed Securities ETF",
+    "stock_symbol": "VMBS",
+    "price": "$664.91",
+    "market_cap": "$4.08B"
+  },
+  {
+    "id": 911,
+    "stock_name": "Astoria Financial Corporation",
+    "stock_symbol": "AF",
+    "price": "$607.07",
+    "market_cap": "$2.06B"
+  },
+  {
+    "id": 912,
+    "stock_name": "Resource Capital Corp.",
+    "stock_symbol": "RSO^B",
+    "price": "$101.87",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 913,
+    "stock_name": "Paylocity Holding Corporation",
+    "stock_symbol": "PCTY",
+    "price": "$967.87",
+    "market_cap": "$2.43B"
+  },
+  {
+    "id": 914,
+    "stock_name": "Lincoln National Corporation",
+    "stock_symbol": "LNC",
+    "price": "$204.33",
+    "market_cap": "$15.26B"
+  },
+  {
+    "id": 915,
+    "stock_name": "Principal Price Setters Index ETF",
+    "stock_symbol": "PSET",
+    "price": "$8.01",
+    "market_cap": "$7.24M"
+  },
+  {
+    "id": 916,
+    "stock_name": "Codexis, Inc.",
+    "stock_symbol": "CDXS",
+    "price": "$491.47",
+    "market_cap": "$231.22M"
+  },
+  {
+    "id": 917,
+    "stock_name": "Earthstone Energy, Inc.",
+    "stock_symbol": "ESTE",
+    "price": "$438.69",
+    "market_cap": "$608.38M"
+  },
+  {
+    "id": 918,
+    "stock_name": "NASDAQ TEST STOCK",
+    "stock_symbol": "NTEST",
+    "price": "$170.18",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 919,
+    "stock_name": "CBRE Clarion Global Real Estate Income Fund",
+    "stock_symbol": "IGR",
+    "price": "$764.28",
+    "market_cap": "$908.24M"
+  },
+  {
+    "id": 920,
+    "stock_name": "Standex International Corporation",
+    "stock_symbol": "SXI",
+    "price": "$312.17",
+    "market_cap": "$1.17B"
+  },
+  {
+    "id": 921,
+    "stock_name": "Lumber Liquidators Holdings, Inc",
+    "stock_symbol": "LL",
+    "price": "$961.67",
+    "market_cap": "$707.33M"
+  },
+  {
+    "id": 922,
+    "stock_name": "iShares S&P Global Timber & Forestry Index Fund",
+    "stock_symbol": "WOOD",
+    "price": "$603.90",
+    "market_cap": "$264.23M"
+  },
+  {
+    "id": 923,
+    "stock_name": "Impax Laboratories, Inc.",
+    "stock_symbol": "IPXL",
+    "price": "$604.60",
+    "market_cap": "$1.02B"
+  },
+  {
+    "id": 924,
+    "stock_name": "Dataram Corporation",
+    "stock_symbol": "DRAM",
+    "price": "$917.15",
+    "market_cap": "$23.54M"
+  },
+  {
+    "id": 925,
+    "stock_name": "Southern California Edison Company",
+    "stock_symbol": "SCE^H",
+    "price": "$3.89",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 926,
+    "stock_name": "Genesee & Wyoming, Inc.",
+    "stock_symbol": "GWR",
+    "price": "$628.24",
+    "market_cap": "$4.18B"
+  },
+  {
+    "id": 927,
+    "stock_name": "Sky Solar Holdings, Ltd.",
+    "stock_symbol": "SKYS",
+    "price": "$304.42",
+    "market_cap": "$72.37M"
+  },
+  {
+    "id": 928,
+    "stock_name": "Nuveen New York Municipal Value Fund, Inc.",
+    "stock_symbol": "NNY",
+    "price": "$954.53",
+    "market_cap": "$156.44M"
+  },
+  {
+    "id": 929,
+    "stock_name": "NL Industries, Inc.",
+    "stock_symbol": "NL",
+    "price": "$752.44",
+    "market_cap": "$362.86M"
+  },
+  {
+    "id": 930,
+    "stock_name": "Compania Cervecerias Unidas, S.A.",
+    "stock_symbol": "CCU",
+    "price": "$577.48",
+    "market_cap": "$4.88B"
+  },
+  {
+    "id": 931,
+    "stock_name": "Organovo Holdings, Inc.",
+    "stock_symbol": "ONVO",
+    "price": "$116.55",
+    "market_cap": "$272.97M"
+  },
+  {
+    "id": 932,
+    "stock_name": "Gabelli Equity Trust, Inc. (The)",
+    "stock_symbol": "GAB^D",
+    "price": "$98.28",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 933,
+    "stock_name": "Valley National Bancorp",
+    "stock_symbol": "VLY",
+    "price": "$307.66",
+    "market_cap": "$3.11B"
+  },
+  {
+    "id": 934,
+    "stock_name": "Glen Burnie Bancorp",
+    "stock_symbol": "GLBZ",
+    "price": "$139.69",
+    "market_cap": "$30.69M"
+  },
+  {
+    "id": 935,
+    "stock_name": "RenaissanceRe Holdings Ltd.",
+    "stock_symbol": "RNR^C",
+    "price": "$825.17",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 936,
+    "stock_name": "Domino's Pizza Inc",
+    "stock_symbol": "DPZ",
+    "price": "$71.88",
+    "market_cap": "$10.14B"
+  },
+  {
+    "id": 937,
+    "stock_name": "Electrum Special Acquisition Corporation",
+    "stock_symbol": "ELEC",
+    "price": "$114.80",
+    "market_cap": "$252.5M"
+  },
+  {
+    "id": 938,
+    "stock_name": "Grana y Montero S.A.A.",
+    "stock_symbol": "GRAM",
+    "price": "$738.17",
+    "market_cap": "$421.11M"
+  },
+  {
+    "id": 939,
+    "stock_name": "Independent Bank Group, Inc",
+    "stock_symbol": "IBTX",
+    "price": "$534.78",
+    "market_cap": "$1.63B"
+  },
+  {
+    "id": 940,
+    "stock_name": "Neptune Technologies & Bioresources Inc",
+    "stock_symbol": "NEPT",
+    "price": "$175.52",
+    "market_cap": "$63.65M"
+  },
+  {
+    "id": 941,
+    "stock_name": "Heritage Insurance Holdings, Inc.",
+    "stock_symbol": "HRTG",
+    "price": "$778.85",
+    "market_cap": "$389.62M"
+  },
+  {
+    "id": 942,
+    "stock_name": "Conn's, Inc.",
+    "stock_symbol": "CONN",
+    "price": "$790.38",
+    "market_cap": "$550.5M"
+  },
+  {
+    "id": 943,
+    "stock_name": "T. Rowe Price Group, Inc.",
+    "stock_symbol": "TROW",
+    "price": "$153.56",
+    "market_cap": "$17.7B"
+  },
+  {
+    "id": 944,
+    "stock_name": "Aqua America, Inc.",
+    "stock_symbol": "WTR",
+    "price": "$720.76",
+    "market_cap": "$6.1B"
+  },
+  {
+    "id": 945,
+    "stock_name": "Omega Protein Corporation",
+    "stock_symbol": "OME",
+    "price": "$451.16",
+    "market_cap": "$390.47M"
+  },
+  {
+    "id": 946,
+    "stock_name": "Uranium Resources, Inc.",
+    "stock_symbol": "URRE",
+    "price": "$457.22",
+    "market_cap": "$34.59M"
+  },
+  {
+    "id": 947,
+    "stock_name": "Pan American Silver Corp.",
+    "stock_symbol": "PAAS",
+    "price": "$364.21",
+    "market_cap": "$2.49B"
+  },
+  {
+    "id": 948,
+    "stock_name": "Jupai Holdings Limited",
+    "stock_symbol": "JP",
+    "price": "$630.51",
+    "market_cap": "$258.29M"
+  },
+  {
+    "id": 949,
+    "stock_name": "Nuveen Pennsylvania Quality Municipal Income Fund",
+    "stock_symbol": "NQP",
+    "price": "$228.68",
+    "market_cap": "$507.8M"
+  },
+  {
+    "id": 950,
+    "stock_name": "Bonso Electronics International, Inc.",
+    "stock_symbol": "BNSO",
+    "price": "$97.80",
+    "market_cap": "$12.63M"
+  },
+  {
+    "id": 951,
+    "stock_name": "NutriSystem Inc",
+    "stock_symbol": "NTRI",
+    "price": "$978.54",
+    "market_cap": "$1.49B"
+  },
+  {
+    "id": 952,
+    "stock_name": "CHS Inc",
+    "stock_symbol": "CHSCN",
+    "price": "$627.83",
+    "market_cap": "$497.62M"
+  },
+  {
+    "id": 953,
+    "stock_name": "V.F. Corporation",
+    "stock_symbol": "VFC",
+    "price": "$930.65",
+    "market_cap": "$22.56B"
+  },
+  {
+    "id": 954,
+    "stock_name": "Superior Industries International, Inc.",
+    "stock_symbol": "SUP",
+    "price": "$75.49",
+    "market_cap": "$479.46M"
+  },
+  {
+    "id": 955,
+    "stock_name": "Lithia Motors, Inc.",
+    "stock_symbol": "LAD",
+    "price": "$869.25",
+    "market_cap": "$2.22B"
+  },
+  {
+    "id": 956,
+    "stock_name": "Stellar Acquisition III Inc.",
+    "stock_symbol": "STLRW",
+    "price": "$261.14",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 957,
+    "stock_name": "China New Borun Corporation",
+    "stock_symbol": "BORN",
+    "price": "$832.30",
+    "market_cap": "$34.21M"
+  },
+  {
+    "id": 958,
+    "stock_name": "Juno Therapeutics, Inc.",
+    "stock_symbol": "JUNO",
+    "price": "$230.04",
+    "market_cap": "$2.47B"
+  },
+  {
+    "id": 959,
+    "stock_name": "Delek US Holdings, Inc.",
+    "stock_symbol": "DK",
+    "price": "$549.44",
+    "market_cap": "$1.66B"
+  },
+  {
+    "id": 960,
+    "stock_name": "Briggs & Stratton Corporation",
+    "stock_symbol": "BGG",
+    "price": "$115.44",
+    "market_cap": "$1.05B"
+  },
+  {
+    "id": 961,
+    "stock_name": "Spirit Airlines, Inc.",
+    "stock_symbol": "SAVE",
+    "price": "$242.38",
+    "market_cap": "$3.66B"
+  },
+  {
+    "id": 962,
+    "stock_name": "KCG Holdings, Inc.",
+    "stock_symbol": "KCG",
+    "price": "$65.93",
+    "market_cap": "$1.35B"
+  },
+  {
+    "id": 963,
+    "stock_name": "Mexico Fund, Inc. (The)",
+    "stock_symbol": "MXF",
+    "price": "$96.85",
+    "market_cap": "$260.58M"
+  },
+  {
+    "id": 964,
+    "stock_name": "Barracuda Networks, Inc.",
+    "stock_symbol": "CUDA",
+    "price": "$816.88",
+    "market_cap": "$1.17B"
+  },
+  {
+    "id": 965,
+    "stock_name": "Imperva, Inc.",
+    "stock_symbol": "IMPV",
+    "price": "$759.75",
+    "market_cap": "$1.61B"
+  },
+  {
+    "id": 966,
+    "stock_name": "First Trust",
+    "stock_symbol": "FMY",
+    "price": "$755.05",
+    "market_cap": "$59.41M"
+  },
+  {
+    "id": 967,
+    "stock_name": "NeoPhotonics Corporation",
+    "stock_symbol": "NPTN",
+    "price": "$66.22",
+    "market_cap": "$382.11M"
+  },
+  {
+    "id": 968,
+    "stock_name": "Altisource Residential Corporation",
+    "stock_symbol": "RESI",
+    "price": "$445.76",
+    "market_cap": "$678.58M"
+  },
+  {
+    "id": 969,
+    "stock_name": "Vitamin Shoppe, Inc",
+    "stock_symbol": "VSI",
+    "price": "$501.16",
+    "market_cap": "$275.42M"
+  },
+  {
+    "id": 970,
+    "stock_name": "Nautilus Group, Inc. (The)",
+    "stock_symbol": "NLS",
+    "price": "$792.52",
+    "market_cap": "$519.03M"
+  },
+  {
+    "id": 971,
+    "stock_name": "51job, Inc.",
+    "stock_symbol": "JOBS",
+    "price": "$723.57",
+    "market_cap": "$2.67B"
+  },
+  {
+    "id": 972,
+    "stock_name": "Materialise NV",
+    "stock_symbol": "MTLS",
+    "price": "$442.61",
+    "market_cap": "$568.38M"
+  },
+  {
+    "id": 973,
+    "stock_name": "Richardson Electronics, Ltd.",
+    "stock_symbol": "RELL",
+    "price": "$464.62",
+    "market_cap": "$75.94M"
+  },
+  {
+    "id": 974,
+    "stock_name": "Diana Shipping inc.",
+    "stock_symbol": "DSX^B",
+    "price": "$733.45",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 975,
+    "stock_name": "FSB Bancorp, Inc.",
+    "stock_symbol": "FSBC",
+    "price": "$261.00",
+    "market_cap": "$28.74M"
+  },
+  {
+    "id": 976,
+    "stock_name": "SandRidge Mississippian Trust I",
+    "stock_symbol": "SDT",
+    "price": "$362.08",
+    "market_cap": "$39.48M"
+  },
+  {
+    "id": 977,
+    "stock_name": "Global Water Resources, Inc.",
+    "stock_symbol": "GWRS",
+    "price": "$875.41",
+    "market_cap": "$192.68M"
+  },
+  {
+    "id": 978,
+    "stock_name": "Western Asset Mortgage Defined Opportunity Fund Inc",
+    "stock_symbol": "DMO",
+    "price": "$348.91",
+    "market_cap": "$274.82M"
+  },
+  {
+    "id": 979,
+    "stock_name": "Guggenheim Taxable Municipal Managed Duration Trst",
+    "stock_symbol": "GBAB",
+    "price": "$150.16",
+    "market_cap": "$398.31M"
+  },
+  {
+    "id": 980,
+    "stock_name": "Thor Industries, Inc.",
+    "stock_symbol": "THO",
+    "price": "$900.50",
+    "market_cap": "$5.53B"
+  },
+  {
+    "id": 981,
+    "stock_name": "Carbo Ceramics, Inc.",
+    "stock_symbol": "CRR",
+    "price": "$437.81",
+    "market_cap": "$178.04M"
+  },
+  {
+    "id": 982,
+    "stock_name": "Esperion Therapeutics, Inc.",
+    "stock_symbol": "ESPR",
+    "price": "$16.69",
+    "market_cap": "$754.28M"
+  },
+  {
+    "id": 983,
+    "stock_name": "Easterly Acquisition Corp.",
+    "stock_symbol": "EACQU",
+    "price": "$828.37",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 984,
+    "stock_name": "Turning Point Brands, Inc.",
+    "stock_symbol": "TPB",
+    "price": "$887.80",
+    "market_cap": "$292.85M"
+  },
+  {
+    "id": 985,
+    "stock_name": "Pioneer High Income Trust",
+    "stock_symbol": "PHT",
+    "price": "$89.63",
+    "market_cap": "$289.1M"
+  },
+  {
+    "id": 986,
+    "stock_name": "RBC Bearings Incorporated",
+    "stock_symbol": "ROLL",
+    "price": "$420.45",
+    "market_cap": "$2.52B"
+  },
+  {
+    "id": 987,
+    "stock_name": "Colfax Corporation",
+    "stock_symbol": "CFX",
+    "price": "$942.88",
+    "market_cap": "$4.88B"
+  },
+  {
+    "id": 988,
+    "stock_name": "Aegean Marine Petroleum Network Inc.",
+    "stock_symbol": "ANW",
+    "price": "$137.40",
+    "market_cap": "$224.84M"
+  },
+  {
+    "id": 989,
+    "stock_name": "Bioptix, Inc",
+    "stock_symbol": "BIOP",
+    "price": "$8.27",
+    "market_cap": "$19.42M"
+  },
+  {
+    "id": 990,
+    "stock_name": "Perceptron, Inc.",
+    "stock_symbol": "PRCP",
+    "price": "$780.42",
+    "market_cap": "$68.49M"
+  },
+  {
+    "id": 991,
+    "stock_name": "WisdomTree Emerging Markets Corporate Bond Fund",
+    "stock_symbol": "EMCB",
+    "price": "$459.83",
+    "market_cap": "$50.49M"
+  },
+  {
+    "id": 992,
+    "stock_name": "TearLab Corporation",
+    "stock_symbol": "TEAR",
+    "price": "$534.08",
+    "market_cap": "$9.01M"
+  },
+  {
+    "id": 993,
+    "stock_name": "LM Funding America, Inc.",
+    "stock_symbol": "LMFA",
+    "price": "$788.65",
+    "market_cap": "$13.56M"
+  },
+  {
+    "id": 994,
+    "stock_name": "Chesapeake Granite Wash Trust",
+    "stock_symbol": "CHKR",
+    "price": "$826.59",
+    "market_cap": "$112.2M"
+  },
+  {
+    "id": 995,
+    "stock_name": "LATAM Airlines Group S.A.",
+    "stock_symbol": "LTM",
+    "price": "$406.33",
+    "market_cap": "$6.79B"
+  },
+  {
+    "id": 996,
+    "stock_name": "Kimco Realty Corporation",
+    "stock_symbol": "KIM^J",
+    "price": "$925.30",
+    "market_cap": "n/a"
+  },
+  {
+    "id": 997,
+    "stock_name": "White Mountains Insurance Group, Ltd.",
+    "stock_symbol": "WTM",
+    "price": "$720.31",
+    "market_cap": "$4B"
+  },
+  {
+    "id": 998,
+    "stock_name": "PhotoMedex, Inc.",
+    "stock_symbol": "PHMD",
+    "price": "$347.89",
+    "market_cap": "$6.29M"
+  },
+  {
+    "id": 999,
+    "stock_name": "Aegean Marine Petroleum Network Inc.",
+    "stock_symbol": "ANW",
+    "price": "$614.55",
+    "market_cap": "$224.84M"
+  },
+  {
+    "id": 1000,
+    "stock_name": "Bank Of New York Mellon Corporation (The)",
+    "stock_symbol": "BK",
+    "price": "$134.94",
+    "market_cap": "$51.88B"
+  }
+]
